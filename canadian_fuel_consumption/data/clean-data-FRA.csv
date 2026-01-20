@@ -1,0 +1,1069 @@
+,Annee modele,Marque,Modele,Categorie de vehicule,Cylindree (L),Cylindres,Transmission,Type de carburant,Ville (L/100 km),Route (L/100 km),Combinee (L/100 km),Combinee (mi/gal),Emissions de CO2 (g/km),Indice de CO2,Indice de smog
+16785,2014,Acura,ILX,Compacte,2.0,4,AS5,Z,9.9,6.7,8.5,33,196,s.o.,s.o.
+16786,2014,Acura,ILX,Compacte,2.4,4,M6,Z,11.2,7.7,9.6,29,221,s.o.,s.o.
+16787,2014,Acura,ILX Hybrid,Compacte,1.5,4,AV,Z,6.0,5.8,5.9,48,136,s.o.,s.o.
+16788,2014,Acura,MDX 4WD,Véhicule utilitaire sport : petit,3.5,6,AS6,Z,12.7,9.1,11.1,25,255,s.o.,s.o.
+16789,2014,Acura,RDX AWD,Véhicule utilitaire sport : petit,3.5,6,AS6,Z,12.1,8.7,10.6,27,244,s.o.,s.o.
+16790,2014,Acura,RLX,Intermédiaire,3.5,6,AS6,Z,11.9,7.7,10.0,28,230,s.o.,s.o.
+16791,2014,Acura,TL,Intermédiaire,3.5,6,AS6,Z,11.8,8.1,10.1,28,232,s.o.,s.o.
+16792,2014,Acura,TL AWD,Intermédiaire,3.7,6,AS6,Z,12.8,9.0,11.1,25,255,s.o.,s.o.
+16793,2014,Acura,TL AWD,Intermédiaire,3.7,6,M6,Z,13.4,9.5,11.6,24,267,s.o.,s.o.
+16794,2014,Acura,TSX,Compacte,2.4,4,AS5,Z,10.6,7.5,9.2,31,212,s.o.,s.o.
+16795,2014,Acura,TSX,Compacte,2.4,4,M6,Z,11.2,8.1,9.8,29,225,s.o.,s.o.
+16796,2014,Acura,TSX,Compacte,3.5,6,AS5,Z,12.1,8.3,10.4,27,239,s.o.,s.o.
+16797,2014,Alfa Romeo,4C,Deux places,1.8,4,AM6,Z,9.7,6.9,8.4,34,193,s.o.,s.o.
+16798,2014,Aston Martin,DB9,Minicompacte,5.9,12,A6,Z,18.0,12.6,15.6,18,359,s.o.,s.o.
+16799,2014,Aston Martin,Rapide,Sous-compacte,5.9,12,A6,Z,18.0,12.6,15.6,18,359,s.o.,s.o.
+16800,2014,Aston Martin,Vanquish,Minicompacte,5.9,12,A6,Z,18.0,12.6,15.6,18,359,s.o.,s.o.
+16801,2014,Aston Martin,V8 Vantage,Deux places,4.7,8,AM7,Z,17.4,11.3,14.7,19,338,s.o.,s.o.
+16802,2014,Aston Martin,V8 Vantage,Deux places,4.7,8,M6,Z,18.1,12.2,15.4,18,354,s.o.,s.o.
+16803,2014,Aston Martin,V8 Vantage S,Deux places,4.7,8,AM7,Z,17.4,11.3,14.7,19,338,s.o.,s.o.
+16804,2014,Aston Martin,V8 Vantage S,Deux places,4.7,8,M6,Z,18.1,12.2,15.4,18,354,s.o.,s.o.
+16805,2014,Audi,A4,Compacte,2.0,4,AV,Z,9.9,7.4,8.8,32,202,s.o.,s.o.
+16806,2014,Audi,A4 quattro,Compacte,2.0,4,AS8,Z,11.5,8.1,10.0,28,230,s.o.,s.o.
+16807,2014,Audi,A4 quattro,Compacte,2.0,4,M6,Z,10.8,7.5,9.3,30,214,s.o.,s.o.
+16808,2014,Audi,A5 quattro,Sous-compacte,2.0,4,AS8,Z,11.5,8.1,10.0,28,230,s.o.,s.o.
+16809,2014,Audi,A5 quattro,Sous-compacte,2.0,4,M6,Z,10.8,7.5,9.3,30,214,s.o.,s.o.
+16810,2014,Audi,A5 Cabriolet quattro,Sous-compacte,2.0,4,AS8,Z,11.5,8.1,10.0,28,230,s.o.,s.o.
+16811,2014,Audi,A6 quattro,Intermédiaire,2.0,4,AS8,Z,12.0,8.1,10.2,28,235,s.o.,s.o.
+16812,2014,Audi,A6 quattro,Intermédiaire,3.0,6,AS8,Z,12.8,8.6,10.9,26,251,s.o.,s.o.
+16813,2014,Audi,A6 quattro TDI (modified),Intermédiaire,3.0,6,AS8,D,9.8,6.2,8.1,35,217,s.o.,s.o.
+16814,2014,Audi,A7 quattro,Intermédiaire,3.0,6,AS8,Z,13.3,8.5,11.2,25,262,s.o.,s.o.
+16815,2014,Audi,A7 quattro TDI (modified),Intermédiaire,3.0,6,AS8,D,9.8,6.2,8.1,35,217,s.o.,s.o.
+16816,2014,Audi,A8,Intermédiaire,3.0,6,AS8,Z,13.1,8.8,11.2,25,258,s.o.,s.o.
+16817,2014,Audi,A8 TDI (modified),Intermédiaire,3.0,6,AS8,D,9.8,6.5,8.4,34,224,s.o.,s.o.
+16818,2014,Audi,A8,Intermédiaire,4.0,8,AS8,Z,13.7,8.3,11.3,25,265,s.o.,s.o.
+16819,2014,Audi,A8L,Grande berline,3.0,6,AS8,Z,13.1,8.8,11.2,25,258,s.o.,s.o.
+16820,2014,Audi,A8L TDI (modified),Grande berline,3.0,6,AS8,D,9.8,6.5,8.4,34,224,s.o.,s.o.
+16821,2014,Audi,A8L,Grande berline,4.0,8,AS8,Z,14.7,9.7,12.5,23,288,s.o.,s.o.
+16822,2014,Audi,A8L,Grande berline,6.3,12,AS8,Z,18.7,11.5,15.5,18,363,s.o.,s.o.
+16823,2014,Audi,allroad quattro,Familiale : petite,2.0,4,AS8,Z,11.8,8.8,10.5,27,242,s.o.,s.o.
+16824,2014,Audi,Q5,Véhicule utilitaire sport : petit,2.0,4,AS8,Z,12.0,8.5,10.4,27,239,s.o.,s.o.
+16825,2014,Audi,Q5,Véhicule utilitaire sport : petit,3.0,6,AS8,Z,12.9,9.2,11.2,25,258,s.o.,s.o.
+16826,2014,Audi,Q5 TDI (modified),Véhicule utilitaire sport : petit,3.0,6,AS8,D,10.2,7.8,9.0,31,244,s.o.,s.o.
+16827,2014,Audi,Q5 Hybrid,Véhicule utilitaire sport : petit,2.0,4,AS8,Z,9.9,8.3,9.2,31,212,s.o.,s.o.
+16828,2014,Audi,Q7,Véhicule utilitaire sport : ordinaire,3.0,6,AS8,Z,15.1,10.9,13.2,21,304,s.o.,s.o.
+16829,2014,Audi,Q7 TDI (modified),Véhicule utilitaire sport : ordinaire,3.0,6,AS8,D,12.4,8.7,10.7,26,290,s.o.,s.o.
+16830,2014,Audi,R8,Deux places,4.2,8,A7,Z,17.6,11.0,14.6,19,336,s.o.,s.o.
+16831,2014,Audi,R8,Deux places,4.2,8,M6,Z,21.2,13.4,17.7,16,407,s.o.,s.o.
+16832,2014,Audi,R8,Deux places,5.2,10,A7,Z,18.2,10.6,14.8,19,347,s.o.,s.o.
+16833,2014,Audi,R8,Deux places,5.2,10,M6,Z,21.1,13.8,17.8,16,409,s.o.,s.o.
+16834,2014,Audi,R8 Spyder,Deux places,4.2,8,A7,Z,17.6,11.0,14.6,19,336,s.o.,s.o.
+16835,2014,Audi,R8 Spyder,Deux places,4.2,8,M6,Z,21.2,13.4,17.7,16,407,s.o.,s.o.
+16836,2014,Audi,R8 Spyder,Deux places,5.2,10,A7,Z,18.2,10.6,14.8,19,347,s.o.,s.o.
+16837,2014,Audi,R8 Spyder,Deux places,5.2,10,M6,Z,21.1,13.8,17.8,16,409,s.o.,s.o.
+16838,2014,Audi,RS 5,Sous-compacte,4.2,8,A7,Z,15.3,10.9,13.3,21,306,s.o.,s.o.
+16839,2014,Audi,RS 5 Cabriolet,Sous-compacte,4.2,8,A7,Z,15.2,11.3,13.4,21,308,s.o.,s.o.
+16840,2014,Audi,RS 7,Intermédiaire,4.0,8,AS8,Z,15.5,8.8,12.5,23,293,s.o.,s.o.
+16841,2014,Audi,S4,Compacte,3.0,6,A7,Z,13.2,9.2,11.4,25,262,s.o.,s.o.
+16842,2014,Audi,S4,Compacte,3.0,6,M6,Z,14.6,9.8,12.4,23,285,s.o.,s.o.
+16843,2014,Audi,S5,Sous-compacte,3.0,6,A7,Z,13.2,9.2,11.4,25,262,s.o.,s.o.
+16844,2014,Audi,S5,Sous-compacte,3.0,6,M6,Z,14.6,9.8,12.4,23,285,s.o.,s.o.
+16845,2014,Audi,S5 Cabriolet,Sous-compacte,3.0,6,A7,Z,13.3,9.5,11.6,24,267,s.o.,s.o.
+16846,2014,Audi,S6,Intermédiaire,4.0,8,A7,Z,14.2,9.7,12.2,23,281,s.o.,s.o.
+16847,2014,Audi,S7,Intermédiaire,4.0,8,A7,Z,14.2,9.7,12.2,23,281,s.o.,s.o.
+16848,2014,Audi,S8,Intermédiaire,4.0,8,AS8,Z,15.8,9.2,12.8,22,300,s.o.,s.o.
+16849,2014,Audi,SQ5,Véhicule utilitaire sport : petit,3.0,6,AS8,Z,14.9,10.1,12.7,22,292,s.o.,s.o.
+16850,2014,Audi,TT Coupe quattro,Sous-compacte,2.0,4,A6,Z,10.4,7.6,9.1,31,209,s.o.,s.o.
+16851,2014,Audi,TT Roadster quattro,Deux places,2.0,4,A6,Z,10.4,7.6,9.1,31,209,s.o.,s.o.
+16852,2014,Audi,TTS Coupe quattro,Sous-compacte,2.0,4,A6,Z,11.5,8.8,10.3,27,237,s.o.,s.o.
+16853,2014,Audi,TTS Roadster quattro,Deux places,2.0,4,A6,Z,11.5,8.8,10.3,27,237,s.o.,s.o.
+16854,2014,Bentley,Continental GT,Sous-compacte,4.0,8,AS8,Z,16.3,9.8,13.4,21,314,s.o.,s.o.
+16855,2014,Bentley,Continental GT,Sous-compacte,6.0,12,AS8,Z,18.8,11.5,15.5,18,356,s.o.,s.o.
+16856,2014,Bentley,Continental GT Speed Convertible,Sous-compacte,6.0,12,AS8,Z,20.0,12.2,16.5,17,380,s.o.,s.o.
+16857,2014,Bentley,Continental GTC,Sous-compacte,4.0,8,AS8,Z,17.4,10.2,14.2,20,332,s.o.,s.o.
+16858,2014,Bentley,Continental GTC,Sous-compacte,6.0,12,AS8,Z,20.0,12.2,16.5,17,380,s.o.,s.o.
+16859,2014,Bentley,Flying Spur,Intermédiaire,6.0,12,AS8,Z,20.3,11.9,16.5,17,388,s.o.,s.o.
+16860,2014,Bentley,Mulsanne,Intermédiaire,6.8,8,AS8,Z,22.3,14.9,19.0,15,437,s.o.,s.o.
+16861,2014,BMW,320i,Compacte,2.0,4,A8,Z,10.0,6.5,8.4,34,193,s.o.,s.o.
+16862,2014,BMW,320i,Compacte,2.0,4,M6,Z,10.4,6.7,8.7,32,200,s.o.,s.o.
+16863,2014,BMW,320i xDrive,Compacte,2.0,4,A8,Z,10.2,7.0,8.8,32,202,s.o.,s.o.
+16864,2014,BMW,328d xDrive,Compacte,2.0,4,A8,D,7.6,5.5,6.7,42,181,s.o.,s.o.
+16865,2014,BMW,328d xDrive Touring,Familiale : petite,2.0,4,A8,D,7.6,5.5,6.7,42,181,s.o.,s.o.
+16866,2014,BMW,328i,Compacte,2.0,4,A8,Z,10.0,6.5,8.4,34,193,s.o.,s.o.
+16867,2014,BMW,328i,Compacte,2.0,4,M6,Z,10.4,6.7,8.7,32,200,s.o.,s.o.
+16868,2014,BMW,328i xDrive,Compacte,2.0,4,A8,Z,10.6,7.2,9.1,31,209,s.o.,s.o.
+16869,2014,BMW,328i xDrive Gran Turismo,Grande berline,2.0,4,A8,Z,10.6,7.2,9.1,31,209,s.o.,s.o.
+16870,2014,BMW,328i xDrive Touring,Familiale : petite,2.0,4,A8,Z,10.6,7.2,9.1,31,209,s.o.,s.o.
+16871,2014,BMW,335i,Compacte,3.0,6,A8,Z,11.4,7.3,9.6,29,221,s.o.,s.o.
+16872,2014,BMW,335i,Compacte,3.0,6,M6,Z,11.8,7.9,10.0,28,230,s.o.,s.o.
+16873,2014,BMW,335i xDrive,Compacte,3.0,6,A8,Z,11.7,7.8,9.9,29,228,s.o.,s.o.
+16874,2014,BMW,335i xDrive,Compacte,3.0,6,M6,Z,11.9,8.3,10.3,27,237,s.o.,s.o.
+16875,2014,BMW,335i xDrive Gran Turismo,Grande berline,3.0,6,A8,Z,11.9,8.0,10.1,28,232,s.o.,s.o.
+16876,2014,BMW,428i Coupe,Compacte,2.0,4,A8,Z,10.0,6.5,8.4,34,193,s.o.,s.o.
+16877,2014,BMW,428i Coupe,Compacte,2.0,4,M6,Z,10.4,6.7,8.7,32,200,s.o.,s.o.
+16878,2014,BMW,428i xDrive Coupe,Compacte,2.0,4,A8,Z,10.6,7.2,9.1,31,209,s.o.,s.o.
+16879,2014,BMW,435i Coupe,Compacte,3.0,6,A8,Z,11.4,7.3,9.6,29,221,s.o.,s.o.
+16880,2014,BMW,435i Coupe,Compacte,3.0,6,M6,Z,11.8,7.9,10.0,28,230,s.o.,s.o.
+16881,2014,BMW,435i xDrive Coupe,Compacte,3.0,6,A8,Z,11.7,7.8,9.9,29,228,s.o.,s.o.
+16882,2014,BMW,435i xDrive Coupe,Compacte,3.0,6,M6,Z,11.9,8.3,10.3,27,237,s.o.,s.o.
+16883,2014,BMW,528i,Intermédiaire,2.0,4,A8,Z,10.2,7.0,8.8,32,202,s.o.,s.o.
+16884,2014,BMW,528i xDrive,Intermédiaire,2.0,4,A8,Z,10.6,7.2,9.1,31,209,s.o.,s.o.
+16885,2014,BMW,535d xDrive,Intermédiaire,3.0,6,A8,D,9.2,6.4,7.9,36,213,s.o.,s.o.
+16886,2014,BMW,535i xDrive,Intermédiaire,3.0,6,A8,Z,11.9,8.0,10.1,28,232,s.o.,s.o.
+16887,2014,BMW,535i xDrive Gran Turismo,Grande berline,3.0,6,A8,Z,12.5,8.6,10.7,26,246,s.o.,s.o.
+16888,2014,BMW,550i xDrive,Intermédiaire,4.4,8,A8,Z,14.4,9.6,12.2,23,281,s.o.,s.o.
+16889,2014,BMW,550i xDrive Gran Turismo,Grande berline,4.4,8,A8,Z,15.0,9.8,12.7,22,292,s.o.,s.o.
+16890,2014,BMW,640i xDrive Gran Coupe,Compacte,3.0,6,A8,Z,11.9,8.0,10.1,28,232,s.o.,s.o.
+16891,2014,BMW,650i xDrive Cabriolet,Sous-compacte,4.4,8,A8,Z,15.0,9.8,12.7,22,292,s.o.,s.o.
+16892,2014,BMW,650i xDrive Coupe,Compacte,4.4,8,A8,Z,14.4,9.6,12.2,23,281,s.o.,s.o.
+16893,2014,BMW,650i xDrive Gran Coupe,Compacte,4.4,8,A8,Z,15.0,9.8,12.7,22,292,s.o.,s.o.
+16894,2014,BMW,740Li xDrive,Grande berline,3.0,6,A8,Z,12.5,8.6,10.7,26,246,s.o.,s.o.
+16895,2014,BMW,750i xDrive,Grande berline,4.4,8,A8,Z,15.0,9.8,12.7,22,292,s.o.,s.o.
+16896,2014,BMW,750Li xDrive,Grande berline,4.4,8,A8,Z,15.0,9.8,12.7,22,292,s.o.,s.o.
+16897,2014,BMW,760Li,Grande berline,6.0,12,A8,Z,18.7,11.5,15.5,18,356,s.o.,s.o.
+16898,2014,BMW,ActiveHybrid 3,Compacte,3.0,6,A8,Z,9.2,7.1,8.3,34,191,s.o.,s.o.
+16899,2014,BMW,ActiveHybrid 5,Intermédiaire,3.0,6,A8,Z,10.5,7.9,9.3,30,214,s.o.,s.o.
+16900,2014,BMW,ActiveHybrid 7L,Grande berline,3.0,6,A8,Z,10.5,7.6,9.2,31,212,s.o.,s.o.
+16901,2014,BMW,Alpina B7 xDrive SWB,Grande berline,4.4,8,A8,Z,15.0,9.8,12.7,22,292,s.o.,s.o.
+16902,2014,BMW,Alpina B7 xDrive LWB,Grande berline,4.4,8,A8,Z,15.0,9.8,12.7,22,292,s.o.,s.o.
+16903,2014,BMW,M5,Intermédiaire,4.4,8,AM7,Z,17.3,11.5,14.7,19,338,s.o.,s.o.
+16904,2014,BMW,M5,Intermédiaire,4.4,8,M6,Z,16.2,10.9,13.8,20,317,s.o.,s.o.
+16905,2014,BMW,M6,Compacte,4.4,8,AM7,Z,17.3,11.5,14.7,19,338,s.o.,s.o.
+16906,2014,BMW,M6,Compacte,4.4,8,M6,Z,16.2,10.9,13.8,20,317,s.o.,s.o.
+16907,2014,BMW,M6 Cabriolet,Sous-compacte,4.4,8,AM7,Z,17.3,11.5,14.7,19,338,s.o.,s.o.
+16908,2014,BMW,M6 Cabriolet,Sous-compacte,4.4,8,M6,Z,16.2,10.9,13.8,20,317,s.o.,s.o.
+16909,2014,BMW,M6 Gran Coupe,Compacte,4.4,8,AM7,Z,17.3,11.5,14.7,19,338,s.o.,s.o.
+16910,2014,BMW,M6 Gran Coupe,Compacte,4.4,8,M6,Z,16.2,10.9,13.8,20,317,s.o.,s.o.
+16911,2014,BMW,X1 xDrive28i,Véhicule utilitaire sport : petit,2.0,4,A8,Z,10.6,7.2,9.1,31,209,s.o.,s.o.
+16912,2014,BMW,X1 xDrive35i,Véhicule utilitaire sport : petit,3.0,6,A6,Z,13.2,8.9,11.3,25,260,s.o.,s.o.
+16913,2014,BMW,X3 xDrive28i,Véhicule utilitaire sport : petit,2.0,4,A8,Z,11.2,8.5,10.0,28,230,s.o.,s.o.
+16914,2014,BMW,X3 xDrive35i,Véhicule utilitaire sport : petit,3.0,6,A8,Z,12.6,9.1,11.0,26,253,s.o.,s.o.
+16915,2014,BMW,X5 xDrive35i,Véhicule utilitaire sport : ordinaire,3.0,6,A8,Z,12.9,8.8,11.1,25,255,s.o.,s.o.
+16916,2014,BMW,X5 xDrive50i,Véhicule utilitaire sport : ordinaire,4.4,8,A8,Z,16.3,10.9,13.9,20,320,s.o.,s.o.
+16917,2014,BMW,X6 xDrive35i,Véhicule utilitaire sport : ordinaire,3.0,6,A8,Z,13.6,9.8,11.9,24,274,s.o.,s.o.
+16918,2014,BMW,X6 xDrive50i,Véhicule utilitaire sport : ordinaire,4.4,8,A8,Z,16.4,11.3,14.1,20,324,s.o.,s.o.
+16919,2014,BMW,X6 M,Véhicule utilitaire sport : ordinaire,4.4,8,A6,Z,18.1,13.7,16.1,18,370,s.o.,s.o.
+16920,2014,BMW,Z4 sDrive28i,Deux places,2.0,4,A8,Z,10.8,7.1,9.1,31,209,s.o.,s.o.
+16921,2014,BMW,Z4 sDrive28i,Deux places,2.0,4,M6,Z,10.4,6.7,8.7,32,200,s.o.,s.o.
+16922,2014,BMW,Z4 sDrive35i,Deux places,3.0,6,AM7,Z,13.7,10.1,12.1,23,278,s.o.,s.o.
+16923,2014,BMW,Z4 sDrive35i,Deux places,3.0,6,M6,Z,12.7,9.0,11.0,26,253,s.o.,s.o.
+16924,2014,BMW,Z4 sDrive35is,Deux places,3.0,6,AM7,Z,13.7,10.1,12.1,23,278,s.o.,s.o.
+16925,2014,Buick,Enclave,Véhicule utilitaire sport : ordinaire,3.6,6,A6,X,14.3,9.9,12.3,23,283,s.o.,s.o.
+16926,2014,Buick,Enclave AWD,Véhicule utilitaire sport : ordinaire,3.6,6,A6,X,14.6,10.2,12.6,22,290,s.o.,s.o.
+16927,2014,Buick,Encore,Véhicule utilitaire sport : petit,1.4,4,AS6,X,9.5,7.2,8.5,33,196,s.o.,s.o.
+16928,2014,Buick,Encore AWD,Véhicule utilitaire sport : petit,1.4,4,AS6,X,10.2,8.0,9.2,31,212,s.o.,s.o.
+16929,2014,Buick,LaCrosse eAssist,Intermédiaire,2.4,4,AS6,X,9.6,6.5,8.2,34,189,s.o.,s.o.
+16930,2014,Buick,LaCrosse,Intermédiaire,3.6,6,AS6,X,13.7,8.7,11.5,25,264,s.o.,s.o.
+16931,2014,Buick,LaCrosse,Intermédiaire,3.6,6,AS6,E,18.4,12.2,15.6,18,250,s.o.,s.o.
+16932,2014,Buick,LaCrosse AWD,Intermédiaire,3.6,6,AS6,X,13.7,8.9,11.5,25,264,s.o.,s.o.
+16933,2014,Buick,LaCrosse AWD,Intermédiaire,3.6,6,AS6,E,19.4,13.0,16.5,17,264,s.o.,s.o.
+16934,2014,Buick,Regal,Intermédiaire,2.0,4,AS6,Z,11.5,7.9,9.9,29,228,s.o.,s.o.
+16935,2014,Buick,Regal,Intermédiaire,2.0,4,M6,Z,11.6,7.5,9.8,29,225,s.o.,s.o.
+16936,2014,Buick,Regal eAssist,Intermédiaire,2.4,4,AS6,X,9.6,6.5,8.2,34,189,s.o.,s.o.
+16937,2014,Buick,Regal AWD,Intermédiaire,2.0,4,AS6,Z,12.3,8.7,10.7,26,246,s.o.,s.o.
+16938,2014,Buick,Verano,Compacte,2.0,4,AS6,Z,11.5,7.9,9.9,29,228,s.o.,s.o.
+16939,2014,Buick,Verano,Compacte,2.0,4,M6,Z,11.6,7.5,9.8,29,225,s.o.,s.o.
+16940,2014,Buick,Verano,Compacte,2.4,4,AS6,X,11.3,7.4,9.5,30,218,s.o.,s.o.
+16941,2014,Cadillac,ATS,Compacte,2.0,4,AS6,Z,11.3,7.5,9.6,29,221,s.o.,s.o.
+16942,2014,Cadillac,ATS,Compacte,2.0,4,M6,Z,12.1,7.9,10.2,28,235,s.o.,s.o.
+16943,2014,Cadillac,ATS,Compacte,2.5,4,AS6,X,10.5,7.2,9.0,31,207,s.o.,s.o.
+16944,2014,Cadillac,ATS,Compacte,3.6,6,AS6,X,12.8,8.5,10.9,26,251,s.o.,s.o.
+16945,2014,Cadillac,ATS AWD,Compacte,2.0,4,AS6,Z,11.8,8.1,10.1,28,232,s.o.,s.o.
+16946,2014,Cadillac,ATS AWD,Compacte,3.6,6,AS6,X,13.1,9.0,11.3,25,260,s.o.,s.o.
+16947,2014,Cadillac,CTS Sedan,Intermédiaire,2.0,4,AS6,Z,11.9,7.9,10.1,28,232,s.o.,s.o.
+16948,2014,Cadillac,CTS Sedan,Intermédiaire,3.6,6,AS8,X,12.9,8.2,10.8,26,248,s.o.,s.o.
+16949,2014,Cadillac,CTS Sedan AWD,Intermédiaire,2.0,4,AS6,Z,12.6,8.5,10.8,26,248,s.o.,s.o.
+16950,2014,Cadillac,CTS Sedan AWD,Intermédiaire,3.6,6,AS6,X,13.1,9.0,11.3,25,260,s.o.,s.o.
+16951,2014,Cadillac,CTS Sedan Vsport,Intermédiaire,3.6,6,AS8,Z,15.1,9.9,12.8,22,294,s.o.,s.o.
+16952,2014,Cadillac,CTS Coupe,Intermédiaire,3.6,6,AS6,X,13.2,8.7,11.2,25,258,s.o.,s.o.
+16953,2014,Cadillac,CTS Coupe AWD,Intermédiaire,3.6,6,AS6,X,13.3,9.0,11.4,25,262,s.o.,s.o.
+16954,2014,Cadillac,CTS Sport Wagon,Familiale : petite,3.0,6,AS6,X,12.7,8.9,11.0,26,253,s.o.,s.o.
+16955,2014,Cadillac,CTS Sport Wagon,Familiale : petite,3.6,6,AS6,X,13.3,8.9,11.3,25,260,s.o.,s.o.
+16956,2014,Cadillac,CTS Sport Wagon AWD,Familiale : petite,3.0,6,AS6,X,12.8,9.1,11.1,25,255,s.o.,s.o.
+16957,2014,Cadillac,CTS Sport Wagon AWD,Familiale : petite,3.6,6,AS6,X,13.3,9.0,11.4,25,262,s.o.,s.o.
+16958,2014,Cadillac,CTS-V Sedan,Intermédiaire,6.2,8,AS6,Z,19.7,12.9,16.6,17,382,s.o.,s.o.
+16959,2014,Cadillac,CTS-V Sedan,Intermédiaire,6.2,8,M6,Z,16.7,12.5,14.8,19,340,s.o.,s.o.
+16960,2014,Cadillac,CTS-V Coupe,Intermédiaire,6.2,8,AS6,Z,19.7,12.9,16.6,17,382,s.o.,s.o.
+16961,2014,Cadillac,CTS-V Coupe,Intermédiaire,6.2,8,M6,Z,16.7,12.5,14.8,19,340,s.o.,s.o.
+16962,2014,Cadillac,CTS-V Sport Wagon,Familiale : petite,6.2,8,AS6,Z,19.7,12.9,16.6,17,382,s.o.,s.o.
+16963,2014,Cadillac,CTS-V Sport Wagon,Familiale : petite,6.2,8,M6,Z,16.7,12.5,14.8,19,340,s.o.,s.o.
+16964,2014,Cadillac,Escalade AWD,Véhicule utilitaire sport : ordinaire,6.2,8,A6,Z,17.0,11.8,14.7,19,338,s.o.,s.o.
+16965,2014,Cadillac,Escalade AWD,Véhicule utilitaire sport : ordinaire,6.2,8,A6,E,23.3,16.1,20.1,14,322,s.o.,s.o.
+16966,2014,Cadillac,Escalade ESV AWD,Véhicule utilitaire sport : ordinaire,6.2,8,A6,Z,18.8,13.4,16.4,17,377,s.o.,s.o.
+16967,2014,Cadillac,Escalade ESV AWD,Véhicule utilitaire sport : ordinaire,6.2,8,A6,E,25.7,17.8,22.1,13,354,s.o.,s.o.
+16968,2014,Cadillac,SRX,Véhicule utilitaire sport : ordinaire,3.6,6,AS6,X,14.3,9.8,12.3,23,283,s.o.,s.o.
+16969,2014,Cadillac,SRX AWD,Véhicule utilitaire sport : ordinaire,3.6,6,AS6,X,14.8,10.4,12.8,22,294,s.o.,s.o.
+16970,2014,Cadillac,XTS,Grande berline,3.6,6,AS6,X,13.6,8.6,11.4,25,262,s.o.,s.o.
+16971,2014,Cadillac,XTS AWD,Grande berline,3.6,6,AS6,X,14.0,9.1,11.8,24,271,s.o.,s.o.
+16972,2014,Cadillac,XTS Vsport AWD,Grande berline,3.6,6,AS6,Z,14.8,9.8,12.6,22,290,s.o.,s.o.
+16973,2014,Chevrolet,Camaro,Compacte,3.6,6,AS6,X,13.2,8.7,11.2,25,258,s.o.,s.o.
+16974,2014,Chevrolet,Camaro,Compacte,3.6,6,M6,X,14.2,8.6,11.7,24,269,s.o.,s.o.
+16975,2014,Chevrolet,Camaro 2LS,Compacte,3.6,6,AS6,X,12.7,7.9,10.5,27,242,s.o.,s.o.
+16976,2014,Chevrolet,Camaro SS,Compacte,6.2,8,AS6,Z,15.3,9.8,12.8,22,294,s.o.,s.o.
+16977,2014,Chevrolet,Camaro SS,Compacte,6.2,8,M6,Z,15.0,9.9,12.7,22,292,s.o.,s.o.
+16978,2014,Chevrolet,Camaro ZL1,Compacte,6.2,8,AS6,Z,19.7,12.9,16.6,17,382,s.o.,s.o.
+16979,2014,Chevrolet,Camaro ZL1,Compacte,6.2,8,M6,Z,16.7,12.5,14.8,19,340,s.o.,s.o.
+16980,2014,Chevrolet,Corvette,Deux places,6.2,8,AS6,Z,14.9,8.5,12.0,24,276,s.o.,s.o.
+16981,2014,Chevrolet,Corvette,Deux places,6.2,8,M7,Z,13.7,8.2,11.2,25,258,s.o.,s.o.
+16982,2014,Chevrolet,Cruze Eco,Intermédiaire,1.4,4,A6,X,9.1,6.0,7.7,37,177,s.o.,s.o.
+16983,2014,Chevrolet,Cruze,Intermédiaire,1.4,4,AS6,X,9.1,6.3,7.8,36,179,s.o.,s.o.
+16984,2014,Chevrolet,Cruze,Intermédiaire,1.4,4,M6,X,9.1,6.3,7.8,36,179,s.o.,s.o.
+16985,2014,Chevrolet,Cruze Eco,Intermédiaire,1.4,4,M6,X,8.4,5.6,7.1,40,163,s.o.,s.o.
+16986,2014,Chevrolet,Cruze,Intermédiaire,1.8,4,AS6,X,10.5,6.7,8.8,32,202,s.o.,s.o.
+16987,2014,Chevrolet,Cruze,Intermédiaire,1.8,4,M6,X,9.5,6.5,8.2,34,189,s.o.,s.o.
+16988,2014,Chevrolet,Cruze Diesel,Intermédiaire,2.0,4,AS6,D,8.7,5.1,7.1,40,192,s.o.,s.o.
+16989,2014,Chevrolet,Equinox,Véhicule utilitaire sport : petit,2.4,4,A6,X,10.5,7.3,9.1,31,209,s.o.,s.o.
+16990,2014,Chevrolet,Equinox,Véhicule utilitaire sport : petit,3.6,6,A6,X,13.9,9.6,12.0,24,276,s.o.,s.o.
+16991,2014,Chevrolet,Equinox,Véhicule utilitaire sport : petit,3.6,6,A6,E,18.8,13.1,16.2,17,259,s.o.,s.o.
+16992,2014,Chevrolet,Equinox AWD,Véhicule utilitaire sport : petit,2.4,4,A6,X,11.5,8.2,10.0,28,230,s.o.,s.o.
+16993,2014,Chevrolet,Equinox AWD,Véhicule utilitaire sport : petit,3.6,6,A6,X,14.8,9.9,12.6,22,290,s.o.,s.o.
+16994,2014,Chevrolet,Equinox AWD,Véhicule utilitaire sport : petit,3.6,6,A6,E,19.8,13.6,17.0,17,272,s.o.,s.o.
+16995,2014,Chevrolet,Express 1500 Cargo,Fourgon : cargaison,4.3,6,A4,X,17.1,12.7,15.1,19,347,s.o.,s.o.
+16996,2014,Chevrolet,Express 1500 Cargo,Fourgon : cargaison,5.3,8,A4,X,18.0,13.4,15.9,18,366,s.o.,s.o.
+16997,2014,Chevrolet,Express 1500 Cargo,Fourgon : cargaison,5.3,8,A4,E,23.5,17.7,20.9,14,334,s.o.,s.o.
+16998,2014,Chevrolet,Express 1500 Cargo AWD,Fourgon : cargaison,5.3,8,A4,X,18.3,14.2,16.5,17,380,s.o.,s.o.
+16999,2014,Chevrolet,Express 1500 Cargo AWD,Fourgon : cargaison,5.3,8,A4,E,23.7,18.8,21.5,13,344,s.o.,s.o.
+17000,2014,Chevrolet,Express 1500 Cargo Conv,Fourgon : cargaison,5.3,8,A4,X,18.6,13.9,16.5,17,380,s.o.,s.o.
+17001,2014,Chevrolet,Express 1500 Cargo Conv,Fourgon : cargaison,5.3,8,A4,E,23.9,18.5,21.5,13,344,s.o.,s.o.
+17002,2014,Chevrolet,Express 1500 Cargo Conv AWD,Fourgon : cargaison,5.3,8,A4,X,18.3,14.2,16.5,17,380,s.o.,s.o.
+17003,2014,Chevrolet,Express 1500 Cargo Conv AWD,Fourgon : cargaison,5.3,8,A4,E,25.3,19.3,22.6,12,362,s.o.,s.o.
+17004,2014,Chevrolet,Express 1500 Passenger,Fourgon : passager,5.3,8,A4,X,18.6,13.9,16.5,17,380,s.o.,s.o.
+17005,2014,Chevrolet,Express 1500 Passenger,Fourgon : passager,5.3,8,A4,E,23.9,18.5,21.5,13,344,s.o.,s.o.
+17006,2014,Chevrolet,Express 1500 Passenger AWD,Fourgon : passager,5.3,8,A4,X,18.3,14.2,16.5,17,380,s.o.,s.o.
+17007,2014,Chevrolet,Express 1500 Passenger AWD,Fourgon : passager,5.3,8,A4,E,25.3,19.3,22.6,12,362,s.o.,s.o.
+17008,2014,Chevrolet,Express 2500 Passenger,Fourgon : passager,4.8,8,A6,X,21.1,14.2,18.0,16,414,s.o.,s.o.
+17009,2014,Chevrolet,Express 2500 Passenger,Fourgon : passager,6.0,8,A6,X,21.9,15.0,18.8,15,432,s.o.,s.o.
+17010,2014,Chevrolet,Express 2500 Passenger,Fourgon : passager,6.0,8,A6,E,30.0,20.4,25.7,11,411,s.o.,s.o.
+17011,2014,Chevrolet,Express 3500 Passenger,Fourgon : passager,4.8,8,A6,X,21.3,14.3,18.2,16,419,s.o.,s.o.
+17012,2014,Chevrolet,Express 3500 Passenger,Fourgon : passager,6.0,8,A6,X,22.1,15.0,18.9,15,435,s.o.,s.o.
+17013,2014,Chevrolet,Express 3500 Passenger,Fourgon : passager,6.0,8,A6,E,30.2,20.5,25.8,11,413,s.o.,s.o.
+17014,2014,Chevrolet,Impala Eco,Grande berline,2.4,4,AS6,X,10.0,7.0,8.7,32,200,s.o.,s.o.
+17015,2014,Chevrolet,Impala,Grande berline,2.5,4,AS6,X,11.3,7.5,9.6,29,221,s.o.,s.o.
+17016,2014,Chevrolet,Impala,Grande berline,3.6,6,AS6,X,12.6,8.2,10.6,27,244,s.o.,s.o.
+17017,2014,Chevrolet,Impala,Grande berline,3.6,6,AS6,E,16.7,11.3,14.3,20,229,s.o.,s.o.
+17018,2014,Chevrolet,Malibu,Intermédiaire,2.0,4,AS6,Z,11.5,7.9,9.9,29,228,s.o.,s.o.
+17019,2014,Chevrolet,Malibu,Intermédiaire,2.5,4,AS6,X,9.3,6.4,8.0,35,184,s.o.,s.o.
+17020,2014,Chevrolet,Orlando,Véhicule utilitaire sport : petit,2.4,4,AS6,X,12.2,8.6,10.6,27,244,s.o.,s.o.
+17021,2014,Chevrolet,Orlando,Véhicule utilitaire sport : petit,2.4,4,M6,X,11.8,8.3,10.2,28,235,s.o.,s.o.
+17022,2014,Chevrolet,Silverado,Camionnette : ordinaire,4.3,6,A6,X,13.4,9.9,11.8,24,271,s.o.,s.o.
+17023,2014,Chevrolet,Silverado,Camionnette : ordinaire,4.3,6,A6,E,18.9,14.2,16.8,17,269,s.o.,s.o.
+17024,2014,Chevrolet,Silverado,Camionnette : ordinaire,5.3,8,A6,X,14.6,10.3,12.7,22,292,s.o.,s.o.
+17025,2014,Chevrolet,Silverado,Camionnette : ordinaire,5.3,8,A6,E,19.5,13.7,16.9,17,270,s.o.,s.o.
+17026,2014,Chevrolet,Silverado,Camionnette : ordinaire,6.2,8,A6,Z,16.3,11.4,14.1,20,324,s.o.,s.o.
+17027,2014,Chevrolet,Silverado 4WD,Camionnette : ordinaire,4.3,6,A6,X,14.2,10.6,12.6,22,290,s.o.,s.o.
+17028,2014,Chevrolet,Silverado 4WD,Camionnette : ordinaire,4.3,6,A6,E,20.0,15.1,17.8,16,285,s.o.,s.o.
+17029,2014,Chevrolet,Silverado 4WD,Camionnette : ordinaire,5.3,8,A6,X,14.9,10.6,13.0,22,299,s.o.,s.o.
+17030,2014,Chevrolet,Silverado 4WD,Camionnette : ordinaire,5.3,8,A6,E,19.9,14.2,17.3,16,277,s.o.,s.o.
+17031,2014,Chevrolet,Silverado 4WD,Camionnette : ordinaire,6.2,8,A6,Z,16.4,11.7,14.3,20,329,s.o.,s.o.
+17032,2014,Chevrolet,Sonic,Compacte,1.4,4,AS6,X,9.1,6.7,8.0,35,184,s.o.,s.o.
+17033,2014,Chevrolet,Sonic,Compacte,1.4,4,M6,X,8.5,6.2,7.5,38,172,s.o.,s.o.
+17034,2014,Chevrolet,Sonic,Compacte,1.8,4,AS6,X,9.6,6.6,8.3,34,191,s.o.,s.o.
+17035,2014,Chevrolet,Sonic,Compacte,1.8,4,M5,X,8.9,6.7,7.9,36,182,s.o.,s.o.
+17036,2014,Chevrolet,Sonic RS,Compacte,1.4,4,AS6,X,9.4,7.0,8.3,34,191,s.o.,s.o.
+17037,2014,Chevrolet,Sonic RS,Compacte,1.4,4,M6,X,8.8,7.0,8.0,35,184,s.o.,s.o.
+17038,2014,Chevrolet,Sonic 5,Intermédiaire,1.4,4,AS6,X,9.1,6.7,8.0,35,184,s.o.,s.o.
+17039,2014,Chevrolet,Sonic 5,Intermédiaire,1.4,4,M6,X,8.5,6.2,7.5,38,172,s.o.,s.o.
+17040,2014,Chevrolet,Sonic 5,Intermédiaire,1.8,4,AS6,X,9.6,6.6,8.3,34,191,s.o.,s.o.
+17041,2014,Chevrolet,Sonic 5,Intermédiaire,1.8,4,M5,X,8.9,6.7,7.9,36,182,s.o.,s.o.
+17042,2014,Chevrolet,Sonic 5 RS,Intermédiaire,1.4,4,AS6,X,9.4,7.0,8.3,34,191,s.o.,s.o.
+17043,2014,Chevrolet,Sonic 5 RS,Intermédiaire,1.4,4,M6,X,8.8,7.0,8.0,35,184,s.o.,s.o.
+17044,2014,Chevrolet,Spark,Sous-compacte,1.2,4,AV,X,7.7,6.0,6.9,41,159,s.o.,s.o.
+17045,2014,Chevrolet,Spark,Sous-compacte,1.2,4,M5,X,7.6,6.0,6.9,41,159,s.o.,s.o.
+17046,2014,Chevrolet,Suburban,Véhicule utilitaire sport : ordinaire,5.3,8,A6,X,16.0,11.1,13.8,20,317,s.o.,s.o.
+17047,2014,Chevrolet,Suburban,Véhicule utilitaire sport : ordinaire,5.3,8,A6,E,21.5,14.6,18.4,15,294,s.o.,s.o.
+17048,2014,Chevrolet,Suburban 4WD,Véhicule utilitaire sport : ordinaire,5.3,8,A6,X,16.0,11.1,13.8,20,317,s.o.,s.o.
+17049,2014,Chevrolet,Suburban 4WD,Véhicule utilitaire sport : ordinaire,5.3,8,A6,E,21.5,14.6,18.4,15,294,s.o.,s.o.
+17050,2014,Chevrolet,Tahoe,Véhicule utilitaire sport : ordinaire,5.3,8,A6,X,16.0,11.1,13.8,20,317,s.o.,s.o.
+17051,2014,Chevrolet,Tahoe,Véhicule utilitaire sport : ordinaire,5.3,8,A6,E,21.5,14.6,18.4,15,294,s.o.,s.o.
+17052,2014,Chevrolet,Tahoe 4WD,Véhicule utilitaire sport : ordinaire,5.3,8,A6,X,16.0,11.1,13.8,20,317,s.o.,s.o.
+17053,2014,Chevrolet,Tahoe 4WD,Véhicule utilitaire sport : ordinaire,5.3,8,A6,E,21.5,14.6,18.4,15,294,s.o.,s.o.
+17054,2014,Chevrolet,Traverse,Véhicule utilitaire sport : ordinaire,3.6,6,A6,X,14.3,9.9,12.3,23,283,s.o.,s.o.
+17055,2014,Chevrolet,Traverse AWD,Véhicule utilitaire sport : ordinaire,3.6,6,A6,X,14.6,10.2,12.6,22,290,s.o.,s.o.
+17056,2014,Chevrolet,Trax,Véhicule utilitaire sport : petit,1.4,4,AS6,X,9.4,7.1,8.4,34,193,s.o.,s.o.
+17057,2014,Chevrolet,Trax,Véhicule utilitaire sport : petit,1.4,4,M6,X,9.1,6.8,8.1,35,186,s.o.,s.o.
+17058,2014,Chevrolet,Trax AWD,Véhicule utilitaire sport : petit,1.4,4,AS6,X,10.0,7.8,9.0,31,207,s.o.,s.o.
+17059,2014,Chrysler,200 Sedan,Intermédiaire,2.4,4,A4,X,11.2,8.0,9.8,29,225,s.o.,s.o.
+17060,2014,Chrysler,200 Sedan,Intermédiaire,2.4,4,A6,X,12.0,7.6,10.0,28,230,s.o.,s.o.
+17061,2014,Chrysler,200 Sedan FFV,Intermédiaire,3.6,6,A6,X,12.5,8.1,10.5,27,242,s.o.,s.o.
+17062,2014,Chrysler,200 Sedan FFV,Intermédiaire,3.6,6,A6,E,17.0,11.2,14.4,20,230,s.o.,s.o.
+17063,2014,Chrysler,200 Convertible,Compacte,2.4,4,A4,X,11.7,8.2,10.1,28,232,s.o.,s.o.
+17064,2014,Chrysler,200 Convertible,Compacte,2.4,4,A6,X,12.9,8.1,10.7,26,246,s.o.,s.o.
+17065,2014,Chrysler,200 Convertible FFV,Compacte,3.6,6,A6,X,12.5,8.1,10.5,27,242,s.o.,s.o.
+17066,2014,Chrysler,200 Convertible FFV,Compacte,3.6,6,A6,E,17.0,11.2,14.4,20,230,s.o.,s.o.
+17067,2014,Chrysler,300,Grande berline,3.6,6,A8,X,12.4,7.7,10.3,27,237,s.o.,s.o.
+17068,2014,Chrysler,300 FFV,Grande berline,3.6,6,A8,X,12.4,7.7,10.3,27,237,s.o.,s.o.
+17069,2014,Chrysler,300 FFV,Grande berline,3.6,6,A8,E,16.8,10.3,13.9,20,222,s.o.,s.o.
+17070,2014,Chrysler,300 (MDS),Grande berline,5.7,8,A5,X,15.8,9.2,12.8,22,294,s.o.,s.o.
+17071,2014,Chrysler,300 SRT (MDS),Grande berline,6.4,8,A5,Z,16.7,10.3,13.8,20,317,s.o.,s.o.
+17072,2014,Chrysler,300 AWD,Grande berline,3.6,6,A8,X,12.8,8.6,10.9,26,251,s.o.,s.o.
+17073,2014,Chrysler,300 AWD FFV,Grande berline,3.6,6,A8,X,12.8,8.6,10.9,26,251,s.o.,s.o.
+17074,2014,Chrysler,300 AWD FFV,Grande berline,3.6,6,A8,E,17.3,11.7,14.8,19,237,s.o.,s.o.
+17075,2014,Chrysler,300 AWD (MDS),Grande berline,5.7,8,A5,X,16.1,10.0,13.4,21,308,s.o.,s.o.
+17076,2014,Chrysler,Town & Country FFV,Fourgonnette,3.6,6,A6,X,14.1,9.5,12.0,24,276,s.o.,s.o.
+17077,2014,Chrysler,Town & Country FFV,Fourgonnette,3.6,6,A6,E,19.7,13.3,16.8,17,269,s.o.,s.o.
+17078,2014,Dodge,Avenger,Intermédiaire,2.4,4,A4,X,11.2,8.0,9.8,29,225,s.o.,s.o.
+17079,2014,Dodge,Avenger,Intermédiaire,2.4,4,A6,X,12.0,7.6,10.0,28,230,s.o.,s.o.
+17080,2014,Dodge,Avenger FFV,Intermédiaire,3.6,6,A6,X,12.5,8.1,10.5,27,242,s.o.,s.o.
+17081,2014,Dodge,Avenger FFV,Intermédiaire,3.6,6,A6,E,17.0,11.2,14.4,20,230,s.o.,s.o.
+17082,2014,Dodge,Challenger,Intermédiaire,3.6,6,A5,X,13.2,8.7,11.2,25,258,s.o.,s.o.
+17083,2014,Dodge,Challenger (MDS),Intermédiaire,5.7,8,A5,X,15.8,9.2,12.8,22,294,s.o.,s.o.
+17084,2014,Dodge,Challenger,Intermédiaire,5.7,8,M6,X,15.6,10.0,13.1,22,301,s.o.,s.o.
+17085,2014,Dodge,Challenger SRT (MDS),Intermédiaire,6.4,8,A5,Z,16.7,10.3,13.8,20,317,s.o.,s.o.
+17086,2014,Dodge,Challenger SRT,Intermédiaire,6.4,8,M6,Z,16.8,10.4,13.9,20,320,s.o.,s.o.
+17087,2014,Dodge,Charger,Grande berline,3.6,6,A5,X,13.2,8.7,11.2,25,258,s.o.,s.o.
+17088,2014,Dodge,Charger FFV,Grande berline,3.6,6,A5,X,13.2,8.7,11.2,25,258,s.o.,s.o.
+17089,2014,Dodge,Charger FFV,Grande berline,3.6,6,A5,E,18.3,12.6,15.7,18,251,s.o.,s.o.
+17090,2014,Dodge,Charger,Grande berline,3.6,6,A8,X,12.4,7.7,10.3,27,237,s.o.,s.o.
+17091,2014,Dodge,Charger FFV,Grande berline,3.6,6,A8,X,12.3,7.6,10.2,28,235,s.o.,s.o.
+17092,2014,Dodge,Charger FFV,Grande berline,3.6,6,A8,E,16.8,10.3,13.9,20,222,s.o.,s.o.
+17093,2014,Dodge,Charger (MDS),Grande berline,5.7,8,A5,X,15.8,9.2,12.8,22,294,s.o.,s.o.
+17094,2014,Dodge,Charger SRT (MDS),Grande berline,6.4,8,A5,Z,16.7,10.3,13.8,20,317,s.o.,s.o.
+17095,2014,Dodge,Charger AWD,Grande berline,3.6,6,A8,X,12.8,8.6,10.9,26,251,s.o.,s.o.
+17096,2014,Dodge,Charger AWD FFV,Grande berline,3.6,6,A8,X,12.8,8.6,10.9,26,251,s.o.,s.o.
+17097,2014,Dodge,Charger AWD FFV,Grande berline,3.6,6,A8,E,17.3,11.7,14.8,19,237,s.o.,s.o.
+17098,2014,Dodge,Charger AWD (MDS),Grande berline,5.7,8,A5,X,16.1,10.0,13.4,21,308,s.o.,s.o.
+17099,2014,Dodge,Dart FFV,Intermédiaire,2.0,4,A6,X,9.9,7.0,8.6,33,198,s.o.,s.o.
+17100,2014,Dodge,Dart FFV,Intermédiaire,2.0,4,A6,E,14.2,9.8,12.2,23,195,s.o.,s.o.
+17101,2014,Dodge,Dart,Intermédiaire,2.0,4,M6,X,9.4,6.5,8.1,35,186,s.o.,s.o.
+17102,2014,Dodge,Dart,Intermédiaire,2.4,4,A6,X,10.1,6.8,8.6,33,198,s.o.,s.o.
+17103,2014,Dodge,Dart,Intermédiaire,2.4,4,M6,X,10.5,6.7,8.8,32,202,s.o.,s.o.
+17104,2014,Dodge,Dart GT,Intermédiaire,2.4,4,A6,X,10.6,7.5,9.2,31,212,s.o.,s.o.
+17105,2014,Dodge,Dart GT,Intermédiaire,2.4,4,M6,X,10.2,7.0,8.8,32,202,s.o.,s.o.
+17106,2014,Dodge,Dart Turbo Aero,Intermédiaire,1.4,4,AM6,X,8.4,5.9,7.3,39,168,s.o.,s.o.
+17107,2014,Dodge,Dart Turbo Aero,Intermédiaire,1.4,4,M6,X,8.5,5.8,7.3,39,168,s.o.,s.o.
+17108,2014,Dodge,Durango AWD FFV,Véhicule utilitaire sport : ordinaire,3.6,6,A8,X,13.9,9.8,12.1,23,278,s.o.,s.o.
+17109,2014,Dodge,Durango AWD FFV,Véhicule utilitaire sport : ordinaire,3.6,6,A8,E,17.7,13.0,15.6,18,250,s.o.,s.o.
+17110,2014,Dodge,Durango AWD (MDS),Véhicule utilitaire sport : ordinaire,5.7,8,A8,X,17.3,10.8,14.4,20,331,s.o.,s.o.
+17111,2014,Dodge,Grand Caravan FFV,Fourgonnette,3.6,6,A6,X,13.7,9.4,11.8,24,271,s.o.,s.o.
+17112,2014,Dodge,Grand Caravan FFV,Fourgonnette,3.6,6,A6,E,19.2,13.1,16.5,17,264,s.o.,s.o.
+17113,2014,Dodge,Journey,Véhicule utilitaire sport : petit,2.4,4,A4,X,12.7,9.1,11.1,25,255,s.o.,s.o.
+17114,2014,Dodge,Journey FFV,Véhicule utilitaire sport : petit,3.6,6,A6,X,14.2,9.4,12.0,24,276,s.o.,s.o.
+17115,2014,Dodge,Journey FFV,Véhicule utilitaire sport : petit,3.6,6,A6,E,18.9,12.9,16.2,17,259,s.o.,s.o.
+17116,2014,Dodge,Journey AWD,Véhicule utilitaire sport : petit,3.6,6,A6,X,14.5,9.9,12.4,23,285,s.o.,s.o.
+17117,2014,FIAT,500 Cabrio,Minicompacte,1.4,4,A6,X,8.7,6.9,7.9,36,182,s.o.,s.o.
+17118,2014,FIAT,500 Cabrio,Minicompacte,1.4,4,M5,X,7.9,6.3,7.2,39,166,s.o.,s.o.
+17119,2014,FIAT,500 Cabrio Turbo,Minicompacte,1.4,4,M5,X,8.5,6.9,7.8,36,179,s.o.,s.o.
+17120,2014,FIAT,500 Hatchback,Minicompacte,1.4,4,A6,X,8.7,6.9,7.9,36,182,s.o.,s.o.
+17121,2014,FIAT,500 Hatchback,Minicompacte,1.4,4,M5,X,7.6,5.9,6.8,42,156,s.o.,s.o.
+17122,2014,FIAT,500 Hatchback Turbo,Minicompacte,1.4,4,M5,X,8.5,6.9,7.8,36,179,s.o.,s.o.
+17123,2014,FIAT,500 Abarth Cabrio,Minicompacte,1.4,4,M5,X,8.5,6.9,7.8,36,179,s.o.,s.o.
+17124,2014,FIAT,500 Abarth Hatchback,Minicompacte,1.4,4,M5,X,8.5,6.9,7.8,36,179,s.o.,s.o.
+17125,2014,FIAT,500L Turbo,Familiale : petite,1.4,4,AM6,X,10.0,7.2,8.7,32,200,s.o.,s.o.
+17126,2014,FIAT,500L Turbo,Familiale : petite,1.4,4,M6,X,9.3,7.2,8.4,34,193,s.o.,s.o.
+17127,2014,Ford,C-MAX Hybrid,Grande berline,2.0,4,AV,X,5.6,6.4,6.0,47,138,s.o.,s.o.
+17128,2014,Ford,E150 Van FFV,Fourgon : cargaison,4.6,8,A4,X,17.7,14.4,16.2,17,373,s.o.,s.o.
+17129,2014,Ford,E150 Van FFV,Fourgon : cargaison,4.6,8,A4,E,24.1,19.2,21.9,13,350,s.o.,s.o.
+17130,2014,Ford,E150 Van FFV,Fourgon : cargaison,5.4,8,A4,X,19.3,14.7,17.2,16,396,s.o.,s.o.
+17131,2014,Ford,E150 Van FFV,Fourgon : cargaison,5.4,8,A4,E,24.9,19.6,22.5,13,360,s.o.,s.o.
+17132,2014,Ford,E150 Wagon FFV,Fourgon : passager,4.6,8,A4,X,18.6,14.6,16.8,17,386,s.o.,s.o.
+17133,2014,Ford,E150 Wagon FFV,Fourgon : passager,4.6,8,A4,E,25.5,20.0,23.0,12,368,s.o.,s.o.
+17134,2014,Ford,E350 Wagon FFV,Fourgon : passager,5.4,8,A4,X,20.6,15.5,18.3,15,421,s.o.,s.o.
+17135,2014,Ford,E350 Wagon FFV,Fourgon : passager,5.4,8,A4,E,26.7,20.5,23.9,12,382,s.o.,s.o.
+17136,2014,Ford,E350 Wagon,Fourgon : passager,6.8,10,A5,X,23.9,17.8,21.2,13,488,s.o.,s.o.
+17137,2014,Ford,Edge,Véhicule utilitaire sport : petit,2.0,4,A6,X,11.3,7.9,9.8,29,225,s.o.,s.o.
+17138,2014,Ford,Edge,Véhicule utilitaire sport : petit,3.5,6,AS6,X,12.6,8.7,10.8,26,248,s.o.,s.o.
+17139,2014,Ford,Edge AWD,Véhicule utilitaire sport : petit,3.5,6,AS6,X,13.3,9.3,11.5,25,264,s.o.,s.o.
+17140,2014,Ford,Edge AWD,Véhicule utilitaire sport : petit,3.7,6,AS6,X,13.7,10.4,12.2,23,281,s.o.,s.o.
+17141,2014,Ford,Escape,Véhicule utilitaire sport : petit,1.6,4,AS6,X,10.4,7.4,9.1,31,209,s.o.,s.o.
+17142,2014,Ford,Escape,Véhicule utilitaire sport : petit,2.0,4,AS6,X,10.9,8.0,9.6,29,221,s.o.,s.o.
+17143,2014,Ford,Escape,Véhicule utilitaire sport : petit,2.5,4,AS6,X,10.9,7.5,9.4,30,216,s.o.,s.o.
+17144,2014,Ford,Escape AWD,Véhicule utilitaire sport : petit,1.6,4,AS6,X,10.5,7.9,9.3,30,214,s.o.,s.o.
+17145,2014,Ford,Escape AWD,Véhicule utilitaire sport : petit,2.0,4,AS6,X,11.2,8.5,10.0,28,230,s.o.,s.o.
+17146,2014,Ford,Expedition 4X4 FFV,Véhicule utilitaire sport : ordinaire,5.4,8,A6,X,18.2,13.3,16.0,18,368,s.o.,s.o.
+17147,2014,Ford,Expedition 4X4 FFV,Véhicule utilitaire sport : ordinaire,5.4,8,A6,E,24.5,18.0,21.6,13,346,s.o.,s.o.
+17148,2014,Ford,Explorer,Véhicule utilitaire sport : ordinaire,2.0,4,A6,X,11.8,8.3,10.2,28,235,s.o.,s.o.
+17149,2014,Ford,Explorer FFV,Véhicule utilitaire sport : ordinaire,3.5,6,AS6,X,13.7,9.7,11.9,24,274,s.o.,s.o.
+17150,2014,Ford,Explorer FFV,Véhicule utilitaire sport : ordinaire,3.5,6,AS6,E,18.3,12.9,15.9,18,254,s.o.,s.o.
+17151,2014,Ford,Explorer AWD,Véhicule utilitaire sport : ordinaire,3.5,6,AS6,X,14.8,10.7,13.0,22,299,s.o.,s.o.
+17152,2014,Ford,Explorer FFV AWD,Véhicule utilitaire sport : ordinaire,3.5,6,AS6,X,14.3,10.3,12.5,23,288,s.o.,s.o.
+17153,2014,Ford,Explorer FFV AWD,Véhicule utilitaire sport : ordinaire,3.5,6,AS6,E,18.9,13.9,16.7,17,267,s.o.,s.o.
+17154,2014,Ford,F-150,Camionnette : ordinaire,3.5,6,A6,X,14.5,10.6,12.7,22,292,s.o.,s.o.
+17155,2014,Ford,F-150,Camionnette : ordinaire,3.5,6,AS6,X,14.6,10.6,12.8,22,294,s.o.,s.o.
+17156,2014,Ford,F-150 FFV,Camionnette : ordinaire,3.7,6,A6,X,14.0,10.3,12.3,23,283,s.o.,s.o.
+17157,2014,Ford,F-150 FFV,Camionnette : ordinaire,3.7,6,A6,E,18.8,13.7,16.5,17,264,s.o.,s.o.
+17158,2014,Ford,F-150 FFV,Camionnette : ordinaire,3.7,6,AS6,X,14.0,10.3,12.3,23,283,s.o.,s.o.
+17159,2014,Ford,F-150 FFV,Camionnette : ordinaire,3.7,6,AS6,E,18.8,13.7,16.5,17,264,s.o.,s.o.
+17160,2014,Ford,F-150 FFV,Camionnette : ordinaire,5.0,8,A6,X,16.4,12.3,14.6,19,336,s.o.,s.o.
+17161,2014,Ford,F-150 FFV,Camionnette : ordinaire,5.0,8,A6,E,22.1,16.7,19.7,14,315,s.o.,s.o.
+17162,2014,Ford,F-150 FFV,Camionnette : ordinaire,5.0,8,AS6,X,16.4,12.3,14.6,19,336,s.o.,s.o.
+17163,2014,Ford,F-150 FFV,Camionnette : ordinaire,5.0,8,AS6,E,22.1,16.7,19.7,14,315,s.o.,s.o.
+17164,2014,Ford,F-150,Camionnette : ordinaire,6.2,8,AS6,X,18.3,12.9,15.9,18,366,s.o.,s.o.
+17165,2014,Ford,F-150 4X4,Camionnette : ordinaire,3.5,6,A6,X,15.9,11.3,13.8,20,317,s.o.,s.o.
+17166,2014,Ford,F-150 4X4,Camionnette : ordinaire,3.5,6,AS6,X,15.4,11.0,13.4,21,308,s.o.,s.o.
+17167,2014,Ford,F-150 FFV 4X4,Camionnette : ordinaire,3.7,6,A6,X,15.0,11.4,13.4,21,308,s.o.,s.o.
+17168,2014,Ford,F-150 FFV 4X4,Camionnette : ordinaire,3.7,6,A6,E,20.2,15.3,18.0,16,288,s.o.,s.o.
+17169,2014,Ford,F-150 FFV 4X4,Camionnette : ordinaire,3.7,6,AS6,X,15.0,11.4,13.4,21,308,s.o.,s.o.
+17170,2014,Ford,F-150 FFV 4X4,Camionnette : ordinaire,3.7,6,AS6,E,20.2,15.3,18.0,16,288,s.o.,s.o.
+17171,2014,Ford,F-150 FFV 4X4,Camionnette : ordinaire,5.0,8,A6,X,16.8,12.6,14.9,19,343,s.o.,s.o.
+17172,2014,Ford,F-150 FFV 4X4,Camionnette : ordinaire,5.0,8,A6,E,22.4,17.0,20.0,14,320,s.o.,s.o.
+17173,2014,Ford,F-150 FFV 4X4,Camionnette : ordinaire,5.0,8,AS6,X,16.7,12.5,14.8,19,340,s.o.,s.o.
+17174,2014,Ford,F-150 FFV 4X4,Camionnette : ordinaire,5.0,8,AS6,E,22.4,16.9,19.9,14,318,s.o.,s.o.
+17175,2014,Ford,F-150 4X4,Camionnette : ordinaire,6.2,8,AS6,X,20.1,14.4,17.5,16,402,s.o.,s.o.
+17176,2014,Ford,F-150 Raptor 4X4,Camionnette : ordinaire,6.2,8,AS6,X,20.4,15.0,18.0,16,414,s.o.,s.o.
+17177,2014,Ford,Fiesta SFE,Sous-compacte,1.0,4,M5,X,7.5,5.5,6.6,43,152,s.o.,s.o.
+17178,2014,Ford,Fiesta SFE,Sous-compacte,1.6,4,AS6,X,8.0,5.8,7.0,40,161,s.o.,s.o.
+17179,2014,Ford,Fiesta,Sous-compacte,1.6,4,AS6,X,8.5,6.5,7.6,37,175,s.o.,s.o.
+17180,2014,Ford,Fiesta,Sous-compacte,1.6,4,M5,X,8.6,6.4,7.6,37,175,s.o.,s.o.
+17181,2014,Ford,Fiesta ST,Compacte,1.6,4,M6,X,8.9,6.8,8.0,35,184,s.o.,s.o.
+17182,2014,Ford,Flex,Véhicule utilitaire sport : ordinaire,3.5,6,AS6,X,13.2,9.4,11.5,25,264,s.o.,s.o.
+17183,2014,Ford,Flex AWD,Véhicule utilitaire sport : ordinaire,3.5,6,AS6,X,13.7,10.2,12.1,23,278,s.o.,s.o.
+17184,2014,Ford,Flex AWD (EcoBoost),Véhicule utilitaire sport : ordinaire,3.5,6,AS6,X,14.8,10.4,12.8,22,294,s.o.,s.o.
+17185,2014,Ford,Focus FFV,Compacte,2.0,4,A6,X,8.8,6.4,7.7,37,177,s.o.,s.o.
+17186,2014,Ford,Focus FFV,Compacte,2.0,4,A6,E,11.7,8.5,10.3,27,165,s.o.,s.o.
+17187,2014,Ford,Focus SFE FFV,Compacte,2.0,4,A6,X,8.4,5.8,7.2,39,166,s.o.,s.o.
+17188,2014,Ford,Focus SFE FFV,Compacte,2.0,4,A6,E,11.6,8.3,10.1,28,162,s.o.,s.o.
+17189,2014,Ford,Focus FFV,Compacte,2.0,4,AS6,X,8.9,6.4,7.8,36,179,s.o.,s.o.
+17190,2014,Ford,Focus FFV,Compacte,2.0,4,AS6,E,11.7,8.5,10.3,27,165,s.o.,s.o.
+17191,2014,Ford,Focus FFV,Compacte,2.0,4,M5,X,9.1,6.6,8.0,35,184,s.o.,s.o.
+17192,2014,Ford,Focus FFV,Compacte,2.0,4,M5,E,11.9,8.9,10.6,27,170,s.o.,s.o.
+17193,2014,Ford,Focus,Compacte,2.0,4,M6,X,10.2,7.4,8.9,32,205,s.o.,s.o.
+17194,2014,Ford,Fusion,Intermédiaire,1.5,4,AS6,X,10.1,6.6,8.5,33,196,s.o.,s.o.
+17195,2014,Ford,Fusion (Start/Stop),Intermédiaire,1.5,4,AS6,X,9.5,6.3,8.1,35,186,s.o.,s.o.
+17196,2014,Ford,Fusion,Intermédiaire,1.6,4,M6,X,9.4,6.4,8.1,35,186,s.o.,s.o.
+17197,2014,Ford,Fusion,Intermédiaire,2.0,4,AS6,X,10.5,7.1,9.0,31,207,s.o.,s.o.
+17198,2014,Ford,Fusion,Intermédiaire,2.5,4,AS6,X,10.5,7.0,8.9,32,205,s.o.,s.o.
+17199,2014,Ford,Fusion AWD,Intermédiaire,2.0,4,AS6,X,10.9,7.5,9.4,30,216,s.o.,s.o.
+17200,2014,Ford,Fusion Hybrid,Intermédiaire,2.0,4,AV,X,5.3,5.7,5.5,51,126,s.o.,s.o.
+17201,2014,Ford,Mustang,Sous-compacte,3.7,6,A6,X,12.1,7.8,10.2,28,235,s.o.,s.o.
+17202,2014,Ford,Mustang,Sous-compacte,3.7,6,M6,X,12.7,8.1,10.6,27,244,s.o.,s.o.
+17203,2014,Ford,Mustang,Sous-compacte,5.0,8,A6,X,13.3,9.3,11.5,25,264,s.o.,s.o.
+17204,2014,Ford,Mustang,Sous-compacte,5.0,8,M6,X,15.4,9.4,12.7,22,292,s.o.,s.o.
+17205,2014,Ford,Mustang,Sous-compacte,5.8,8,M6,Z,15.9,9.9,13.2,21,304,s.o.,s.o.
+17206,2014,Ford,Mustang Convertible,Sous-compacte,3.7,6,A6,X,12.5,8.2,10.6,27,244,s.o.,s.o.
+17207,2014,Ford,Taurus,Grande berline,2.0,4,AS6,X,10.5,7.3,9.1,31,209,s.o.,s.o.
+17208,2014,Ford,Taurus FFV,Grande berline,3.5,6,AS6,X,12.1,8.1,10.3,27,237,s.o.,s.o.
+17209,2014,Ford,Taurus FFV,Grande berline,3.5,6,AS6,E,17.0,11.1,14.3,20,229,s.o.,s.o.
+17210,2014,Ford,Taurus AWD,Grande berline,3.5,6,AS6,X,13.7,9.4,11.8,24,271,s.o.,s.o.
+17211,2014,Ford,Taurus FFV AWD,Grande berline,3.5,6,AS6,X,13.0,9.1,11.2,25,258,s.o.,s.o.
+17212,2014,Ford,Taurus FFV AWD,Grande berline,3.5,6,AS6,E,18.4,12.5,15.7,18,251,s.o.,s.o.
+17213,2014,Ford,Transit Connect,Véhicule à usage spécial,1.6,4,AS6,X,10.8,8.0,9.5,30,218,s.o.,s.o.
+17214,2014,Ford,Transit Connect,Véhicule à usage spécial,2.5,4,AS6,X,11.3,8.2,9.9,29,228,s.o.,s.o.
+17215,2014,Ford,Transit Connect Taxi,Véhicule à usage spécial,1.6,4,AS6,X,11.5,8.3,10.1,28,232,s.o.,s.o.
+17216,2014,Ford,Transit Connect Wagon,Véhicule à usage spécial,2.5,4,AS6,X,11.9,8.5,10.4,27,239,s.o.,s.o.
+17217,2014,GMC,Acadia,Véhicule utilitaire sport : ordinaire,3.6,6,A6,X,14.3,9.9,12.3,23,283,s.o.,s.o.
+17218,2014,GMC,Acadia AWD,Véhicule utilitaire sport : ordinaire,3.6,6,A6,X,14.9,10.4,12.9,22,297,s.o.,s.o.
+17219,2014,GMC,Savana 1500 Cargo,Fourgon : cargaison,4.3,6,A4,X,17.1,12.7,15.1,19,347,s.o.,s.o.
+17220,2014,GMC,Savana 1500 Cargo,Fourgon : cargaison,5.3,8,A4,X,18.0,13.4,15.9,18,366,s.o.,s.o.
+17221,2014,GMC,Savana 1500 Cargo,Fourgon : cargaison,5.3,8,A4,E,23.5,17.7,20.9,14,334,s.o.,s.o.
+17222,2014,GMC,Savana 1500 Cargo AWD,Fourgon : cargaison,5.3,8,A4,X,18.3,14.2,16.5,17,380,s.o.,s.o.
+17223,2014,GMC,Savana 1500 Cargo AWD,Fourgon : cargaison,5.3,8,A4,E,23.7,18.8,21.5,13,344,s.o.,s.o.
+17224,2014,GMC,Savana 1500 Cargo Conv,Fourgon : cargaison,5.3,8,A4,X,18.6,13.9,16.5,17,380,s.o.,s.o.
+17225,2014,GMC,Savana 1500 Cargo Conv,Fourgon : cargaison,5.3,8,A4,E,23.9,18.5,21.5,13,344,s.o.,s.o.
+17226,2014,GMC,Savana 1500 Cargo Conv AWD,Fourgon : cargaison,5.3,8,A4,X,18.3,14.2,16.5,17,380,s.o.,s.o.
+17227,2014,GMC,Savana 1500 Cargo Conv AWD,Fourgon : cargaison,5.3,8,A4,E,25.3,19.3,22.6,12,362,s.o.,s.o.
+17228,2014,GMC,Savana 1500 Passenger,Fourgon : passager,5.3,8,A4,X,18.6,13.9,16.5,17,380,s.o.,s.o.
+17229,2014,GMC,Savana 1500 Passenger,Fourgon : passager,5.3,8,A4,E,23.9,18.5,21.5,13,344,s.o.,s.o.
+17230,2014,GMC,Savana 1500 Passenger AWD,Fourgon : passager,5.3,8,A4,X,18.3,14.2,16.5,17,380,s.o.,s.o.
+17231,2014,GMC,Savana 1500 Passenger AWD,Fourgon : passager,5.3,8,A4,E,25.3,19.3,22.6,12,362,s.o.,s.o.
+17232,2014,GMC,Savana 2500 Passenger,Fourgon : passager,4.8,8,A6,X,21.1,14.2,18.0,16,414,s.o.,s.o.
+17233,2014,GMC,Savana 2500 Passenger,Fourgon : passager,6.0,8,A6,X,21.9,15.0,18.8,15,432,s.o.,s.o.
+17234,2014,GMC,Savana 2500 Passenger,Fourgon : passager,6.0,8,A6,E,30.0,20.4,25.7,11,411,s.o.,s.o.
+17235,2014,GMC,Savana 3500 Passenger,Fourgon : passager,4.8,8,A6,X,21.3,14.3,18.2,16,419,s.o.,s.o.
+17236,2014,GMC,Savana 3500 Passenger,Fourgon : passager,6.0,8,A6,X,22.1,15.0,18.9,15,435,s.o.,s.o.
+17237,2014,GMC,Savana 3500 Passenger,Fourgon : passager,6.0,8,A6,E,30.2,20.5,25.8,11,413,s.o.,s.o.
+17238,2014,GMC,Sierra,Camionnette : ordinaire,4.3,6,A6,X,13.4,9.9,11.8,24,271,s.o.,s.o.
+17239,2014,GMC,Sierra,Camionnette : ordinaire,4.3,6,A6,E,18.9,14.2,16.8,17,269,s.o.,s.o.
+17240,2014,GMC,Sierra,Camionnette : ordinaire,5.3,8,A6,X,14.6,10.3,12.7,22,292,s.o.,s.o.
+17241,2014,GMC,Sierra,Camionnette : ordinaire,5.3,8,A6,E,19.5,13.7,16.9,17,270,s.o.,s.o.
+17242,2014,GMC,Sierra,Camionnette : ordinaire,6.2,8,A6,Z,16.3,11.4,14.1,20,324,s.o.,s.o.
+17243,2014,GMC,Sierra 4WD,Camionnette : ordinaire,4.3,6,A6,X,14.2,10.6,12.6,22,290,s.o.,s.o.
+17244,2014,GMC,Sierra 4WD,Camionnette : ordinaire,4.3,6,A6,E,20.0,15.1,17.8,16,285,s.o.,s.o.
+17245,2014,GMC,Sierra 4WD,Camionnette : ordinaire,5.3,8,A6,X,14.9,10.6,13.0,22,299,s.o.,s.o.
+17246,2014,GMC,Sierra 4WD,Camionnette : ordinaire,5.3,8,A6,E,19.9,14.2,17.3,16,277,s.o.,s.o.
+17247,2014,GMC,Sierra 4WD,Camionnette : ordinaire,6.2,8,A6,Z,16.4,11.7,14.3,20,329,s.o.,s.o.
+17248,2014,GMC,Terrain,Véhicule utilitaire sport : petit,2.4,4,A6,X,10.5,7.3,9.1,31,209,s.o.,s.o.
+17249,2014,GMC,Terrain,Véhicule utilitaire sport : petit,3.6,6,A6,X,13.9,9.6,12.0,24,276,s.o.,s.o.
+17250,2014,GMC,Terrain,Véhicule utilitaire sport : petit,3.6,6,A6,E,18.8,13.1,16.2,17,259,s.o.,s.o.
+17251,2014,GMC,Terrain AWD,Véhicule utilitaire sport : petit,2.4,4,A6,X,11.5,8.2,10.0,28,230,s.o.,s.o.
+17252,2014,GMC,Terrain AWD,Véhicule utilitaire sport : petit,3.6,6,A6,X,14.8,9.9,12.6,22,290,s.o.,s.o.
+17253,2014,GMC,Terrain AWD,Véhicule utilitaire sport : petit,3.6,6,A6,E,19.8,13.6,17.0,17,272,s.o.,s.o.
+17254,2014,GMC,Yukon,Véhicule utilitaire sport : ordinaire,5.3,8,A6,X,16.0,11.1,13.8,20,317,s.o.,s.o.
+17255,2014,GMC,Yukon,Véhicule utilitaire sport : ordinaire,5.3,8,A6,E,21.5,14.6,18.4,15,294,s.o.,s.o.
+17256,2014,GMC,Yukon 4WD,Véhicule utilitaire sport : ordinaire,5.3,8,A6,X,16.0,11.1,13.8,20,317,s.o.,s.o.
+17257,2014,GMC,Yukon 4WD,Véhicule utilitaire sport : ordinaire,5.3,8,A6,E,21.5,14.6,18.4,15,294,s.o.,s.o.
+17258,2014,GMC,Yukon Denali AWD,Véhicule utilitaire sport : ordinaire,6.2,8,A6,Z,17.0,11.8,14.7,19,338,s.o.,s.o.
+17259,2014,GMC,Yukon Denali AWD,Véhicule utilitaire sport : ordinaire,6.2,8,A6,E,23.3,16.1,20.1,14,322,s.o.,s.o.
+17260,2014,GMC,Yukon XL,Véhicule utilitaire sport : ordinaire,5.3,8,A6,X,16.0,11.1,13.8,20,317,s.o.,s.o.
+17261,2014,GMC,Yukon XL,Véhicule utilitaire sport : ordinaire,5.3,8,A6,E,21.5,14.6,18.4,15,294,s.o.,s.o.
+17262,2014,GMC,Yukon XL 4WD,Véhicule utilitaire sport : ordinaire,5.3,8,A6,X,16.0,11.1,13.8,20,317,s.o.,s.o.
+17263,2014,GMC,Yukon XL 4WD,Véhicule utilitaire sport : ordinaire,5.3,8,A6,E,21.5,14.6,18.4,15,294,s.o.,s.o.
+17264,2014,GMC,Yukon Denali XL AWD,Véhicule utilitaire sport : ordinaire,6.2,8,A6,Z,18.8,13.4,16.4,17,377,s.o.,s.o.
+17265,2014,GMC,Yukon Denali XL AWD,Véhicule utilitaire sport : ordinaire,6.2,8,A6,E,25.7,17.8,22.1,13,354,s.o.,s.o.
+17266,2014,Honda,Accord,Intermédiaire,2.4,4,AV,X,9.0,6.6,7.9,36,182,s.o.,s.o.
+17267,2014,Honda,Accord,Intermédiaire,2.4,4,AV,X,9.1,6.9,8.1,35,186,s.o.,s.o.
+17268,2014,Honda,Accord,Intermédiaire,2.4,4,M6,X,10.1,6.9,8.7,32,200,s.o.,s.o.
+17269,2014,Honda,Accord,Intermédiaire,3.5,6,A6,X,11.0,6.8,9.1,31,209,s.o.,s.o.
+17270,2014,Honda,Accord,Intermédiaire,3.5,6,AS6,X,11.4,7.3,9.6,29,221,s.o.,s.o.
+17271,2014,Honda,Accord,Intermédiaire,3.5,6,M6,X,13.0,8.4,10.9,26,251,s.o.,s.o.
+17272,2014,Honda,Accord Hybrid,Intermédiaire,2.0,4,AV,X,4.7,4.9,4.8,59,110,s.o.,s.o.
+17273,2014,Honda,Civic,Compacte,1.8,4,AV,X,7.9,6.0,7.0,40,161,s.o.,s.o.
+17274,2014,Honda,Civic,Compacte,1.8,4,AV,X,8.1,6.2,7.2,39,166,s.o.,s.o.
+17275,2014,Honda,Civic,Compacte,1.8,4,M5,X,8.5,6.6,7.6,37,175,s.o.,s.o.
+17276,2014,Honda,Crosstour AWD,Véhicule utilitaire sport : petit,3.5,6,A6,X,12.5,8.5,10.7,26,246,s.o.,s.o.
+17277,2014,Honda,CR-V,Véhicule utilitaire sport : petit,2.4,4,A5,X,10.3,7.6,9.1,31,209,s.o.,s.o.
+17278,2014,Honda,CR-V AWD,Véhicule utilitaire sport : petit,2.4,4,A5,X,10.6,7.9,9.4,30,216,s.o.,s.o.
+17279,2014,Honda,CR-Z,Deux places,1.5,4,AV,X,6.6,6.0,6.3,45,145,s.o.,s.o.
+17280,2014,Honda,CR-Z,Deux places,1.5,4,M6,X,7.6,6.1,6.9,41,159,s.o.,s.o.
+17281,2014,Honda,Fit,Familiale : petite,1.5,4,A5,X,8.3,6.5,7.5,38,172,s.o.,s.o.
+17282,2014,Honda,Fit,Familiale : petite,1.5,4,M5,X,8.3,6.9,7.7,37,177,s.o.,s.o.
+17283,2014,Honda,Odyssey,Fourgonnette,3.5,6,A6,X,12.3,8.5,10.6,27,244,s.o.,s.o.
+17284,2014,Honda,Pilot,Véhicule utilitaire sport : petit,3.5,6,A5,X,13.3,9.3,11.5,25,265,s.o.,s.o.
+17285,2014,Honda,Pilot AWD,Véhicule utilitaire sport : petit,3.5,6,A5,X,13.9,9.7,12.0,24,276,s.o.,s.o.
+17286,2014,Honda,Ridgeline AWD,Camionnette : ordinaire,3.5,6,A5,X,15.2,11.3,13.4,21,308,s.o.,s.o.
+17287,2014,Hyundai,Accent,Compacte,1.6,4,A6,X,8.8,6.3,7.7,37,177,s.o.,s.o.
+17288,2014,Hyundai,Accent,Compacte,1.6,4,M6,X,8.7,6.4,7.7,37,177,s.o.,s.o.
+17289,2014,Hyundai,Elantra GT,Intermédiaire,2.0,4,A6,X,9.8,7.2,8.6,33,198,s.o.,s.o.
+17290,2014,Hyundai,Elantra GT,Intermédiaire,2.0,4,M6,X,9.8,7.0,8.5,33,196,s.o.,s.o.
+17291,2014,Hyundai,Equus,Grande berline,5.0,8,A8,Z,15.7,10.2,13.2,21,304,s.o.,s.o.
+17292,2014,Hyundai,Genesis,Grande berline,3.8,6,A8,X,13.0,8.7,11.1,25,255,s.o.,s.o.
+17293,2014,Hyundai,Santa Fe,Véhicule utilitaire sport : petit,3.3,6,A6,X,13.0,9.1,11.2,25,258,s.o.,s.o.
+17294,2014,Hyundai,Santa Fe 4WD,Véhicule utilitaire sport : petit,3.3,6,A6,X,13.3,9.5,11.6,24,267,s.o.,s.o.
+17295,2014,Hyundai,Santa Fe Sport,Véhicule utilitaire sport : petit,2.4,4,A6,X,11.6,8.7,10.3,27,237,s.o.,s.o.
+17296,2014,Hyundai,Santa Fe Sport 4WD,Véhicule utilitaire sport : petit,2.0,4,A6,X,12.9,9.7,11.5,25,264,s.o.,s.o.
+17297,2014,Hyundai,Santa Fe Sport 4WD,Véhicule utilitaire sport : petit,2.4,4,A6,X,12.5,9.4,11.1,25,255,s.o.,s.o.
+17298,2014,Hyundai,Sonata,Grande berline,2.0,4,A6,X,11.4,7.5,9.6,29,221,s.o.,s.o.
+17299,2014,Hyundai,Sonata,Grande berline,2.4,4,A6,X,9.8,7.0,8.5,33,196,s.o.,s.o.
+17300,2014,Hyundai,Sonata Hybrid,Intermédiaire,2.4,4,AS6,X,6.5,5.9,6.2,46,143,s.o.,s.o.
+17301,2014,Hyundai,Sonata Hybrid Limited,Intermédiaire,2.4,4,AS6,X,6.6,5.9,6.3,45,145,s.o.,s.o.
+17302,2014,Hyundai,Tucson,Véhicule utilitaire sport : petit,2.0,4,A6,X,10.2,8.2,9.3,30,214,s.o.,s.o.
+17303,2014,Hyundai,Tucson,Véhicule utilitaire sport : petit,2.0,4,M6,X,11.4,8.6,10.1,28,232,s.o.,s.o.
+17304,2014,Hyundai,Tucson,Véhicule utilitaire sport : petit,2.4,4,A6,X,11.3,8.3,10.0,28,230,s.o.,s.o.
+17305,2014,Hyundai,Tucson 4WD,Véhicule utilitaire sport : petit,2.0,4,A6,X,11.4,9.3,10.5,27,242,s.o.,s.o.
+17306,2014,Hyundai,Tucson 4WD,Véhicule utilitaire sport : petit,2.4,4,A6,X,11.6,9.3,10.6,27,244,s.o.,s.o.
+17307,2014,Hyundai,Veloster,Compacte,1.6,4,AM6,X,8.6,6.6,7.7,37,177,s.o.,s.o.
+17308,2014,Hyundai,Veloster,Compacte,1.6,4,M6,X,9.1,6.7,8.0,35,184,s.o.,s.o.
+17309,2014,Hyundai,Veloster Turbo,Compacte,1.6,4,A6,X,9.9,7.5,8.8,32,202,s.o.,s.o.
+17310,2014,Hyundai,Veloster Turbo,Compacte,1.6,4,M6,X,9.7,7.1,8.5,33,196,s.o.,s.o.
+17311,2014,Infiniti,Q50,Intermédiaire,3.7,6,AS7,Z,12.0,8.0,10.2,28,235,s.o.,s.o.
+17312,2014,Infiniti,Q50 AWD,Intermédiaire,3.7,6,AS7,Z,12.6,8.7,10.8,26,248,s.o.,s.o.
+17313,2014,Infiniti,Q50 Hybrid,Compacte,3.5,6,AS7,Z,8.2,6.7,7.5,38,172,s.o.,s.o.
+17314,2014,Infiniti,Q50 Hybrid AWD,Compacte,3.5,6,AS7,Z,8.7,7.5,8.2,34,189,s.o.,s.o.
+17315,2014,Infiniti,Q60 Convertible,Sous-compacte,3.7,6,AS7,Z,13.6,9.3,11.7,24,269,s.o.,s.o.
+17316,2014,Infiniti,Q60 Convertible,Sous-compacte,3.7,6,M6,Z,14.3,9.8,12.3,23,283,s.o.,s.o.
+17317,2014,Infiniti,Q60 Coupe,Sous-compacte,3.7,6,AS7,Z,12.9,8.9,11.1,25,255,s.o.,s.o.
+17318,2014,Infiniti,Q60 Coupe,Sous-compacte,3.7,6,M6,Z,13.5,9.3,11.6,24,267,s.o.,s.o.
+17319,2014,Infiniti,Q60 AWD Coupe,Sous-compacte,3.7,6,AS7,Z,13.3,9.4,11.5,25,264,s.o.,s.o.
+17320,2014,Infiniti,Q70,Intermédiaire,3.7,6,AS7,Z,12.8,8.9,11.0,26,253,s.o.,s.o.
+17321,2014,Infiniti,Q70,Intermédiaire,5.6,8,AS7,Z,14.5,9.5,12.3,23,283,s.o.,s.o.
+17322,2014,Infiniti,Q70 AWD,Intermédiaire,3.7,6,AS7,Z,13.2,9.6,11.6,24,267,s.o.,s.o.
+17323,2014,Infiniti,Q70 AWD,Intermédiaire,5.6,8,AS7,Z,15.0,10.2,12.8,22,294,s.o.,s.o.
+17324,2014,Infiniti,Q70 Hybrid,Intermédiaire,3.5,6,AS7,Z,8.0,7.0,7.6,37,175,s.o.,s.o.
+17325,2014,Infiniti,QX50 AWD,Familiale : petite,3.7,6,AS7,Z,13.6,9.6,11.8,24,271,s.o.,s.o.
+17326,2014,Infiniti,QX60,Véhicule utilitaire sport : petit,3.5,6,AV,Z,11.9,9.0,10.6,27,244,s.o.,s.o.
+17327,2014,Infiniti,QX60 AWD,Véhicule utilitaire sport : petit,3.5,6,AV,Z,12.3,9.3,11.0,26,253,s.o.,s.o.
+17328,2014,Infiniti,QX60 Hybrid AWD,Véhicule utilitaire sport : ordinaire,2.5,4,AV,X,8.8,8.2,8.5,33,196,s.o.,s.o.
+17329,2014,Infiniti,QX70 AWD,Véhicule utilitaire sport : petit,3.7,6,AS7,Z,14.5,10.7,12.8,22,294,s.o.,s.o.
+17330,2014,Infiniti,QX70 AWD,Véhicule utilitaire sport : petit,5.0,8,AS7,Z,16.6,11.9,14.5,19,334,s.o.,s.o.
+17331,2014,Infiniti,QX80 4WD,Véhicule utilitaire sport : ordinaire,5.6,8,AS7,Z,17.4,12.1,15.0,19,345,s.o.,s.o.
+17332,2014,Jaguar,F-TYPE Convertible,Deux places,3.0,6,AS8,Z,11.8,8.4,10.3,27,237,s.o.,s.o.
+17333,2014,Jaguar,F-TYPE S Convertible,Deux places,3.0,6,AS8,Z,12.2,8.7,10.6,27,244,s.o.,s.o.
+17334,2014,Jaguar,F-TYPE V8 S Convertible,Deux places,5.0,8,AS8,Z,15.0,10.2,12.8,22,294,s.o.,s.o.
+17335,2014,Jaguar,XF,Intermédiaire,2.0,4,AS8,Z,12.3,8.2,10.5,27,242,s.o.,s.o.
+17336,2014,Jaguar,XF 3.0L AWD,Intermédiaire,3.0,6,AS8,Z,14.7,9.1,12.2,23,281,s.o.,s.o.
+17337,2014,Jaguar,XFR,Intermédiaire,5.0,8,AS8,Z,15.7,10.3,13.3,21,306,s.o.,s.o.
+17338,2014,Jaguar,XFR,Intermédiaire,5.0,8,AS8,E,21.3,14.1,18.1,16,290,s.o.,s.o.
+17339,2014,Jaguar,XFR-S,Intermédiaire,5.0,8,AS8,Z,15.7,10.3,13.3,21,306,s.o.,s.o.
+17340,2014,Jaguar,XJ AWD,Grande berline,3.0,6,AS8,Z,14.6,9.6,12.4,23,285,s.o.,s.o.
+17341,2014,Jaguar,XJ Supercharged,Grande berline,5.0,8,AS8,Z,15.8,10.2,13.3,21,306,s.o.,s.o.
+17342,2014,Jaguar,XJ Supercharged,Grande berline,5.0,8,AS8,E,20.6,13.6,17.5,16,280,s.o.,s.o.
+17343,2014,Jaguar,XJL AWD Portfolio,Grande berline,3.0,6,AS8,Z,14.7,9.6,12.4,23,285,s.o.,s.o.
+17344,2014,Jaguar,XJL Supercharged,Grande berline,5.0,8,AS8,Z,15.8,10.2,13.3,21,306,s.o.,s.o.
+17345,2014,Jaguar,XJL Supercharged,Grande berline,5.0,8,AS8,E,20.6,13.6,17.5,16,280,s.o.,s.o.
+17346,2014,Jaguar,XJR,Grande berline,5.0,8,AS8,Z,15.8,10.2,13.3,21,306,s.o.,s.o.
+17347,2014,Jaguar,XJR LWB,Grande berline,5.0,8,AS8,Z,15.8,10.2,13.3,21,306,s.o.,s.o.
+17348,2014,Jaguar,XK Convertible,Minicompacte,5.0,8,AS6,Z,15.1,10.6,13.1,22,301,s.o.,s.o.
+17349,2014,Jaguar,XK Coupe,Minicompacte,5.0,8,AS6,Z,14.8,9.9,12.6,22,290,s.o.,s.o.
+17350,2014,Jaguar,XKR Convertible,Minicompacte,5.0,8,AS6,Z,15.9,10.9,13.7,21,315,s.o.,s.o.
+17351,2014,Jaguar,XKR Coupe,Minicompacte,5.0,8,AS6,Z,15.6,10.9,13.5,21,310,s.o.,s.o.
+17352,2014,Jaguar,XKR-S Convertible,Minicompacte,5.0,8,AS6,Z,15.9,10.9,13.7,21,315,s.o.,s.o.
+17353,2014,Jaguar,XKR-S Coupe,Minicompacte,5.0,8,AS6,Z,15.6,10.9,13.5,21,310,s.o.,s.o.
+17354,2014,Jeep,Cherokee,Véhicule utilitaire sport : petit,2.4,4,A9,X,10.9,7.7,9.5,30,218,s.o.,s.o.
+17355,2014,Jeep,Cherokee,Véhicule utilitaire sport : petit,3.2,6,A9,X,12.3,8.3,10.5,27,242,s.o.,s.o.
+17356,2014,Jeep,Cherokee 4X4,Véhicule utilitaire sport : petit,2.4,4,A9,X,11.3,8.3,10.0,28,230,s.o.,s.o.
+17357,2014,Jeep,Cherokee 4X4,Véhicule utilitaire sport : petit,3.2,6,A9,X,12.5,8.8,10.8,26,248,s.o.,s.o.
+17358,2014,Jeep,Cherokee 4X4 Active Drive II,Véhicule utilitaire sport : petit,2.4,4,A9,X,11.4,8.6,10.1,28,232,s.o.,s.o.
+17359,2014,Jeep,Cherokee 4X4 Active Drive II,Véhicule utilitaire sport : petit,3.2,6,A9,X,12.5,9.1,11.0,26,253,s.o.,s.o.
+17360,2014,Jeep,Cherokee Trailhawk 4X4,Véhicule utilitaire sport : petit,2.4,4,A9,X,12.1,9.4,10.9,26,251,s.o.,s.o.
+17361,2014,Jeep,Cherokee Trailhawk 4X4,Véhicule utilitaire sport : petit,3.2,6,A9,X,13.4,9.5,11.6,24,267,s.o.,s.o.
+17362,2014,Jeep,Compass,Véhicule utilitaire sport : petit,2.0,4,A6,X,11.1,8.3,9.8,29,225,s.o.,s.o.
+17363,2014,Jeep,Compass,Véhicule utilitaire sport : petit,2.0,4,AV,X,10.7,8.8,9.9,29,228,s.o.,s.o.
+17364,2014,Jeep,Compass,Véhicule utilitaire sport : petit,2.0,4,M5,X,10.2,7.8,9.1,31,209,s.o.,s.o.
+17365,2014,Jeep,Compass,Véhicule utilitaire sport : petit,2.4,4,A6,X,11.1,8.3,9.8,29,225,s.o.,s.o.
+17366,2014,Jeep,Compass,Véhicule utilitaire sport : petit,2.4,4,M5,X,10.3,8.3,9.4,30,216,s.o.,s.o.
+17367,2014,Jeep,Compass 4X4,Véhicule utilitaire sport : petit,2.4,4,A6,X,11.4,8.7,10.2,28,235,s.o.,s.o.
+17368,2014,Jeep,Compass 4X4,Véhicule utilitaire sport : petit,2.4,4,M5,X,10.3,8.4,9.4,30,216,s.o.,s.o.
+17369,2014,Jeep,Compass 4X4 Trail Rated,Véhicule utilitaire sport : petit,2.4,4,AV,X,11.7,10.3,11.1,25,255,s.o.,s.o.
+17370,2014,Jeep,Grand Cherokee 4X4 FFV,Véhicule utilitaire sport : ordinaire,3.6,6,A8,X,13.9,9.8,12.1,23,278,s.o.,s.o.
+17371,2014,Jeep,Grand Cherokee 4X4 FFV,Véhicule utilitaire sport : ordinaire,3.6,6,A8,E,17.7,13.0,15.6,18,250,s.o.,s.o.
+17372,2014,Jeep,Grand Cherokee 4X4 (MDS),Véhicule utilitaire sport : ordinaire,5.7,8,A8,X,17.3,11.7,14.8,19,340,s.o.,s.o.
+17373,2014,Jeep,Grand Cherokee SRT 4X4 (MDS),Véhicule utilitaire sport : ordinaire,6.4,8,A8,Z,18.5,12.6,15.8,18,363,s.o.,s.o.
+17374,2014,Jeep,Patriot,Véhicule utilitaire sport : petit,2.0,4,A6,X,11.1,8.3,9.8,29,225,s.o.,s.o.
+17375,2014,Jeep,Patriot,Véhicule utilitaire sport : petit,2.0,4,AV,X,10.7,8.8,9.9,29,228,s.o.,s.o.
+17376,2014,Jeep,Patriot,Véhicule utilitaire sport : petit,2.0,4,M5,X,10.2,7.8,9.1,31,209,s.o.,s.o.
+17377,2014,Jeep,Patriot,Véhicule utilitaire sport : petit,2.4,4,A6,X,11.1,8.3,9.8,29,225,s.o.,s.o.
+17378,2014,Jeep,Patriot,Véhicule utilitaire sport : petit,2.4,4,M5,X,10.3,8.3,9.4,30,216,s.o.,s.o.
+17379,2014,Jeep,Patriot 4X4,Véhicule utilitaire sport : petit,2.4,4,A6,X,11.4,8.7,10.2,28,235,s.o.,s.o.
+17380,2014,Jeep,Patriot 4X4,Véhicule utilitaire sport : petit,2.4,4,M5,X,10.3,8.4,9.4,30,216,s.o.,s.o.
+17381,2014,Jeep,Patriot 4X4 Trail Rated,Véhicule utilitaire sport : petit,2.4,4,AV,X,11.7,10.3,11.1,25,255,s.o.,s.o.
+17382,2014,Jeep,Wrangler 4X4 (2-Door),Véhicule utilitaire sport : petit,3.6,6,A5,X,14.1,11.1,12.8,22,294,s.o.,s.o.
+17383,2014,Jeep,Wrangler 4X4 (2-Door),Véhicule utilitaire sport : petit,3.6,6,M6,X,14.2,11.0,12.8,22,294,s.o.,s.o.
+17384,2014,Jeep,Wrangler Unlimited 4X4 (4-Door),Véhicule utilitaire sport : petit,3.6,6,A5,X,14.8,11.7,13.4,21,308,s.o.,s.o.
+17385,2014,Jeep,Wrangler Unlimited 4X4 (4-Door),Véhicule utilitaire sport : petit,3.6,6,M6,X,15.0,11.4,13.4,21,308,s.o.,s.o.
+17386,2014,Kia,Cadenza,Grande berline,3.3,6,A6,X,12.7,8.8,10.9,26,251,s.o.,s.o.
+17387,2014,Kia,Forte,Intermédiaire,1.8,4,A6,X,9.6,6.6,8.3,34,191,s.o.,s.o.
+17388,2014,Kia,Forte,Intermédiaire,1.8,4,M6,X,9.3,6.4,8.0,35,184,s.o.,s.o.
+17389,2014,Kia,Forte,Intermédiaire,2.0,4,A6,X,9.8,6.6,8.4,34,193,s.o.,s.o.
+17390,2014,Kia,Forte,Intermédiaire,2.0,4,M6,X,9.7,6.8,8.4,34,193,s.o.,s.o.
+17391,2014,Kia,Forte 5,Grande berline,1.6,4,A6,X,11.1,8.0,9.7,29,223,s.o.,s.o.
+17392,2014,Kia,Forte 5,Grande berline,1.6,4,M6,X,11.1,8.2,9.8,29,225,s.o.,s.o.
+17393,2014,Kia,Forte 5,Grande berline,2.0,4,A6,X,9.7,6.8,8.4,34,193,s.o.,s.o.
+17394,2014,Kia,Forte 5,Grande berline,2.0,4,M6,X,9.8,7.0,8.5,33,196,s.o.,s.o.
+17395,2014,Kia,Forte Koup,Compacte,1.6,4,A6,X,10.6,7.9,9.4,30,216,s.o.,s.o.
+17396,2014,Kia,Forte Koup,Compacte,1.6,4,M6,X,10.8,8.1,9.6,29,221,s.o.,s.o.
+17397,2014,Kia,Forte Koup,Compacte,2.0,4,A6,X,9.6,7.0,8.4,34,193,s.o.,s.o.
+17398,2014,Kia,Forte Koup,Compacte,2.0,4,M6,X,9.8,7.2,8.6,33,198,s.o.,s.o.
+17399,2014,Kia,Optima,Intermédiaire,2.0,4,A6,X,11.7,7.6,9.9,29,228,s.o.,s.o.
+17400,2014,Kia,Optima,Intermédiaire,2.4,4,A6,X,10.2,6.8,8.7,32,200,s.o.,s.o.
+17401,2014,Kia,Optima Hybrid,Intermédiaire,2.4,4,AS6,X,6.5,5.9,6.2,46,143,s.o.,s.o.
+17402,2014,Kia,Optima Hybrid EX,Intermédiaire,2.4,4,AS6,X,6.7,6.0,6.4,44,147,s.o.,s.o.
+17403,2014,Kia,Rio,Compacte,1.6,4,A6,X,8.7,6.3,7.6,37,175,s.o.,s.o.
+17404,2014,Kia,Rio,Compacte,1.6,4,M6,X,8.7,6.4,7.7,37,177,s.o.,s.o.
+17405,2014,Kia,Rio Eco,Compacte,1.6,4,A6,X,8.5,6.4,7.6,37,175,s.o.,s.o.
+17406,2014,Kia,Rondo,Familiale : intermédiaire,2.0,4,A6,X,10.5,7.5,9.2,31,212,s.o.,s.o.
+17407,2014,Kia,Rondo,Familiale : intermédiaire,2.0,4,M6,X,10.8,7.4,9.3,30,214,s.o.,s.o.
+17408,2014,Kia,Sedona,Fourgonnette,3.5,6,A6,X,13.7,9.9,12.0,24,276,s.o.,s.o.
+17409,2014,Kia,Sorento,Véhicule utilitaire sport : petit,2.4,4,A6,X,11.8,8.5,10.3,27,237,s.o.,s.o.
+17410,2014,Kia,Sorento,Véhicule utilitaire sport : petit,3.3,6,A6,X,12.9,9.5,11.4,25,262,s.o.,s.o.
+17411,2014,Kia,Sorento 4WD,Véhicule utilitaire sport : petit,2.4,4,A6,X,12.3,9.3,11.0,26,253,s.o.,s.o.
+17412,2014,Kia,Sorento 4WD,Véhicule utilitaire sport : petit,3.3,6,A6,X,13.4,9.9,11.8,24,271,s.o.,s.o.
+17413,2014,Kia,Soul,Familiale : petite,1.6,4,A6,X,9.8,7.9,8.9,32,205,s.o.,s.o.
+17414,2014,Kia,Soul,Familiale : petite,1.6,4,M6,X,9.9,7.8,9.0,31,207,s.o.,s.o.
+17415,2014,Kia,Soul,Familiale : petite,2.0,4,A6,X,10.1,7.8,9.1,31,209,s.o.,s.o.
+17416,2014,Kia,Soul ECO Dynamics,Familiale : petite,2.0,4,A6,X,9.7,7.8,8.8,32,202,s.o.,s.o.
+17417,2014,Kia,Sportage,Véhicule utilitaire sport : petit,2.4,4,A6,X,11.4,8.3,10.0,28,230,s.o.,s.o.
+17418,2014,Kia,Sportage,Véhicule utilitaire sport : petit,2.4,4,M6,X,12.9,9.3,11.3,25,260,s.o.,s.o.
+17419,2014,Kia,Sportage AWD,Véhicule utilitaire sport : petit,2.0,4,A6,X,12.7,9.7,11.4,25,262,s.o.,s.o.
+17420,2014,Kia,Sportage AWD,Véhicule utilitaire sport : petit,2.4,4,A6,X,12.0,9.1,10.7,26,246,s.o.,s.o.
+17421,2014,Lamborghini,Aventador Coupe,Deux places,6.5,12,A7,Z,22.8,12.9,18.3,15,421,s.o.,s.o.
+17422,2014,Lamborghini,Gallardo Coupe,Deux places,5.2,10,A6,Z,18.0,12.8,15.7,18,361,s.o.,s.o.
+17423,2014,Lamborghini,Gallardo Coupe,Deux places,5.2,10,M6,Z,20.6,13.5,17.4,16,400,s.o.,s.o.
+17424,2014,Land Rover,LR2,Véhicule utilitaire sport : petit,2.0,4,AS6,Z,13.5,9.9,11.9,24,274,s.o.,s.o.
+17425,2014,Land Rover,LR4,Véhicule utilitaire sport : ordinaire,3.0,6,AS8,Z,16.3,12.4,14.5,19,334,s.o.,s.o.
+17426,2014,Land Rover,Range Rover V6 3.0 SC,Véhicule utilitaire sport : ordinaire,3.0,6,AS8,Z,14.1,10.1,12.3,23,283,s.o.,s.o.
+17427,2014,Land Rover,Range Rover V6 3.0 SC FFV,Véhicule utilitaire sport : ordinaire,3.0,6,AS8,Z,14.1,10.1,12.3,23,283,s.o.,s.o.
+17428,2014,Land Rover,Range Rover V6 3.0 SC FFV,Véhicule utilitaire sport : ordinaire,3.0,6,AS8,E,19.4,14.8,17.3,16,277,s.o.,s.o.
+17429,2014,Land Rover,Range Rover V8 5.0 SC,Véhicule utilitaire sport : ordinaire,5.0,8,AS8,Z,18.0,12.2,15.4,18,354,s.o.,s.o.
+17430,2014,Land Rover,Range Rover V8 5.0 SC FFV,Véhicule utilitaire sport : ordinaire,5.0,8,AS8,Z,17.2,12.5,15.1,19,347,s.o.,s.o.
+17431,2014,Land Rover,Range Rover V8 5.0 SC FFV,Véhicule utilitaire sport : ordinaire,5.0,8,AS8,E,25.0,16.9,21.4,13,342,s.o.,s.o.
+17432,2014,Land Rover,Range Rover LWB V8 5.0 SC,Véhicule utilitaire sport : ordinaire,5.0,8,AS8,Z,18.0,12.2,15.4,18,354,s.o.,s.o.
+17433,2014,Land Rover,Range Rover LWB V8 5.0 SC FFV,Véhicule utilitaire sport : ordinaire,5.0,8,AS8,Z,17.2,12.5,15.1,19,347,s.o.,s.o.
+17434,2014,Land Rover,Range Rover LWB V8 5.0 SC FFV,Véhicule utilitaire sport : ordinaire,5.0,8,AS8,E,25.0,16.9,21.4,13,342,s.o.,s.o.
+17435,2014,Land Rover,Range Rover Sport V6 3.0 SC,Véhicule utilitaire sport : ordinaire,3.0,6,AS8,Z,14.2,10.2,12.4,23,285,s.o.,s.o.
+17436,2014,Land Rover,Range Rover Sport V6 3.0 SC FFV,Véhicule utilitaire sport : ordinaire,3.0,6,AS8,Z,14.2,10.2,12.4,23,285,s.o.,s.o.
+17437,2014,Land Rover,Range Rover Sport V6 3.0 SC FFV,Véhicule utilitaire sport : ordinaire,3.0,6,AS8,E,19.4,14.9,17.4,16,278,s.o.,s.o.
+17438,2014,Land Rover,Range Rover Sport V8 5.0 SC,Véhicule utilitaire sport : ordinaire,5.0,8,AS8,Z,17.3,12.2,15.0,19,345,s.o.,s.o.
+17439,2014,Land Rover,Range Rover Sport V8 5.0 SC FFV,Véhicule utilitaire sport : ordinaire,5.0,8,AS8,Z,16.6,12.3,14.7,19,338,s.o.,s.o.
+17440,2014,Land Rover,Range Rover Sport V8 5.0 SC FFV,Véhicule utilitaire sport : ordinaire,5.0,8,AS8,E,24.0,16.6,20.7,14,331,s.o.,s.o.
+17441,2014,Land Rover,Range Rover Evoque,Véhicule utilitaire sport : petit,2.0,4,AS9,Z,11.3,7.9,9.8,29,225,s.o.,s.o.
+17442,2014,Land Rover,Range Rover Evoque Coupe,Véhicule utilitaire sport : petit,2.0,4,AS9,Z,11.3,7.9,9.8,29,225,s.o.,s.o.
+17443,2014,Lexus,CT 200h,Compacte,1.8,4,AV,X,5.5,5.8,5.6,50,129,s.o.,s.o.
+17444,2014,Lexus,ES 300h,Intermédiaire,2.5,4,AV,X,5.8,6.2,6.0,47,138,s.o.,s.o.
+17445,2014,Lexus,ES 350,Intermédiaire,3.5,6,AS6,X,11.3,7.6,9.6,29,221,s.o.,s.o.
+17446,2014,Lexus,GS 350,Intermédiaire,3.5,6,AS8,Z,12.1,8.3,10.4,27,239,s.o.,s.o.
+17447,2014,Lexus,GS 350 AWD,Intermédiaire,3.5,6,AS6,Z,12.5,9.1,11.0,26,253,s.o.,s.o.
+17448,2014,Lexus,GS 450h,Intermédiaire,3.5,6,AV,Z,7.7,7.4,7.6,37,175,s.o.,s.o.
+17449,2014,Lexus,GX 460,Véhicule utilitaire sport : ordinaire,4.6,8,AS6,Z,15.7,11.8,13.9,20,320,s.o.,s.o.
+17450,2014,Lexus,IS 250,Compacte,2.5,6,AS6,Z,11.2,7.8,9.7,29,223,s.o.,s.o.
+17451,2014,Lexus,IS 250 AWD,Compacte,2.5,6,AS6,Z,11.8,8.7,10.4,27,239,s.o.,s.o.
+17452,2014,Lexus,IS 250 C,Sous-compacte,2.5,6,AS6,Z,11.2,7.8,9.7,29,223,s.o.,s.o.
+17453,2014,Lexus,IS 350,Compacte,3.5,6,AS8,Z,12.2,8.7,10.6,27,244,s.o.,s.o.
+17454,2014,Lexus,IS 350 AWD,Compacte,3.5,6,AS6,Z,12.5,9.1,11.0,26,253,s.o.,s.o.
+17455,2014,Lexus,IS 350 C,Sous-compacte,3.5,6,AS6,Z,12.1,8.7,10.6,27,244,s.o.,s.o.
+17456,2014,Lexus,IS F,Sous-compacte,5.0,8,AS8,Z,14.6,10.1,12.6,22,290,s.o.,s.o.
+17457,2014,Lexus,LS 460,Intermédiaire,4.6,8,AS8,Z,14.5,9.6,12.3,23,283,s.o.,s.o.
+17458,2014,Lexus,LS 460 AWD,Intermédiaire,4.6,8,AS8,Z,15.1,10.3,12.9,22,297,s.o.,s.o.
+17459,2014,Lexus,LS 460 L AWD,Intermédiaire,4.6,8,AS8,Z,15.1,10.3,12.9,22,297,s.o.,s.o.
+17460,2014,Lexus,LS 600h L,Intermédiaire,5.0,8,AV,Z,12.0,10.7,11.4,25,262,s.o.,s.o.
+17461,2014,Lexus,LX 570,Véhicule utilitaire sport : ordinaire,5.7,8,AS6,Z,18.8,13.6,16.5,17,380,s.o.,s.o.
+17462,2014,Lexus,RX 350 AWD,Véhicule utilitaire sport : petit,3.5,6,AS6,X,13.3,9.8,11.7,24,269,s.o.,s.o.
+17463,2014,Lexus,RX 350 AWD,Véhicule utilitaire sport : petit,3.5,6,AS8,X,12.7,9.1,11.1,25,255,s.o.,s.o.
+17464,2014,Lexus,RX 450h AWD,Véhicule utilitaire sport : petit,3.5,6,AV,Z,7.9,8.6,8.2,34,189,s.o.,s.o.
+17465,2014,Lincoln,MKS AWD,Grande berline,3.5,6,AS6,X,13.7,9.4,11.8,24,271,s.o.,s.o.
+17466,2014,Lincoln,MKS AWD,Grande berline,3.7,6,AS6,X,13.1,9.0,11.3,25,260,s.o.,s.o.
+17467,2014,Lincoln,MKT AWD,Véhicule utilitaire sport : ordinaire,3.5,6,AS6,X,14.8,10.4,12.8,22,294,s.o.,s.o.
+17468,2014,Lincoln,MKT Livery,Véhicule à usage spécial,2.0,4,AS6,X,11.5,8.5,10.2,28,235,s.o.,s.o.
+17469,2014,Lincoln,MKT Livery AWD,Véhicule à usage spécial,3.7,6,A6,X,14.0,9.9,12.2,23,281,s.o.,s.o.
+17470,2014,Lincoln,MKX AWD,Véhicule utilitaire sport : petit,3.7,6,AS6,X,13.7,10.4,12.2,23,281,s.o.,s.o.
+17471,2014,Lincoln,MKZ,Intermédiaire,2.0,4,AS6,X,10.5,7.1,9.0,31,207,s.o.,s.o.
+17472,2014,Lincoln,MKZ AWD,Intermédiaire,3.7,6,AS6,X,13.1,9.3,11.4,25,262,s.o.,s.o.
+17473,2014,Lincoln,MKZ Hybrid,Intermédiaire,2.0,4,AV,X,6.2,6.4,6.3,45,145,s.o.,s.o.
+17474,2014,Lincoln,Navigator 4X4 FFV,Véhicule utilitaire sport : ordinaire,5.4,8,A6,X,18.2,13.3,16.0,18,368,s.o.,s.o.
+17475,2014,Lincoln,Navigator 4X4 FFV,Véhicule utilitaire sport : ordinaire,5.4,8,A6,E,24.5,18.0,21.6,13,346,s.o.,s.o.
+17476,2014,Maserati,Ghibli,Intermédiaire,3.0,6,AS8,Z,15.2,9.6,12.7,22,292,s.o.,s.o.
+17477,2014,Maserati,Ghibli AWD,Intermédiaire,3.0,6,AS8,Z,15.2,9.6,12.7,22,292,s.o.,s.o.
+17478,2014,Maserati,GranTurismo,Sous-compacte,4.7,8,AS6,Z,18.2,11.4,15.1,19,347,s.o.,s.o.
+17479,2014,Maserati,GranTurismo Convertible,Sous-compacte,4.7,8,AS6,Z,18.2,11.7,15.3,18,352,s.o.,s.o.
+17480,2014,Maserati,Quattroporte SQ4,Grande berline,3.0,6,AS8,Z,15.9,9.7,13.1,22,301,s.o.,s.o.
+17481,2014,Maserati,Quattroporte GTS,Grande berline,3.8,8,AS8,Z,17.6,10.7,14.5,19,334,s.o.,s.o.
+17482,2014,Mazda,CX-5,Véhicule utilitaire sport : petit,2.0,4,AS6,X,8.9,7.3,8.2,34,189,s.o.,s.o.
+17483,2014,Mazda,CX-5,Véhicule utilitaire sport : petit,2.0,4,M6,X,9.0,6.8,8.0,35,184,s.o.,s.o.
+17484,2014,Mazda,CX-5,Véhicule utilitaire sport : petit,2.5,4,AS6,X,9.6,7.4,8.6,33,198,s.o.,s.o.
+17485,2014,Mazda,CX-5 4WD,Véhicule utilitaire sport : petit,2.0,4,AS6,X,9.3,7.6,8.5,33,196,s.o.,s.o.
+17486,2014,Mazda,CX-5 4WD,Véhicule utilitaire sport : petit,2.5,4,AS6,X,9.8,7.9,8.9,32,205,s.o.,s.o.
+17487,2014,Mazda,CX-9,Véhicule utilitaire sport : petit,3.7,6,AS6,X,14.2,10.0,12.3,23,283,s.o.,s.o.
+17488,2014,Mazda,CX-9 4WD,Véhicule utilitaire sport : petit,3.7,6,AS6,X,14.3,10.6,12.6,22,290,s.o.,s.o.
+17489,2014,Mazda,Mazda2,Compacte,1.5,4,A4,X,8.4,6.9,7.7,37,177,s.o.,s.o.
+17490,2014,Mazda,Mazda2,Compacte,1.5,4,M5,X,8.0,6.7,7.4,38,170,s.o.,s.o.
+17491,2014,Mazda,Mazda3 4-Door,Compacte,2.0,4,AS6,X,7.9,5.7,6.9,41,159,s.o.,s.o.
+17492,2014,Mazda,Mazda3 4-Door,Compacte,2.0,4,M6,X,8.0,5.8,7.0,40,161,s.o.,s.o.
+17493,2014,Mazda,Mazda3 4-Door (SIL),Compacte,2.0,4,M6,X,8.0,5.8,7.0,40,161,s.o.,s.o.
+17494,2014,Mazda,Mazda3 4-Door,Compacte,2.5,4,AS6,X,8.4,6.1,7.4,38,170,s.o.,s.o.
+17495,2014,Mazda,Mazda3 4-Door (i-ELOOP),Compacte,2.5,4,AS6,X,8.3,6.1,7.3,39,168,s.o.,s.o.
+17496,2014,Mazda,Mazda3 5-Door,Intermédiaire,2.0,4,AS6,X,8.0,5.9,7.1,40,163,s.o.,s.o.
+17497,2014,Mazda,Mazda3 5-Door,Intermédiaire,2.0,4,M6,X,8.2,5.9,7.2,39,166,s.o.,s.o.
+17498,2014,Mazda,Mazda3 5-Door (SIL),Intermédiaire,2.0,4,M6,X,8.2,5.9,7.2,39,166,s.o.,s.o.
+17499,2014,Mazda,Mazda3 5-Door,Intermédiaire,2.5,4,AS6,X,8.7,6.5,7.7,37,177,s.o.,s.o.
+17500,2014,Mazda,Mazda3 5-Door (i-ELOOP),Intermédiaire,2.5,4,AS6,X,8.2,6.1,7.3,39,168,s.o.,s.o.
+17501,2014,Mazda,Mazda5,Fourgonnette,2.5,4,AS5,X,10.8,8.4,9.7,29,223,s.o.,s.o.
+17502,2014,Mazda,Mazda5,Fourgonnette,2.5,4,M6,X,11.1,8.3,9.8,29,225,s.o.,s.o.
+17503,2014,Mazda,Mazda6,Intermédiaire,2.5,4,AS6,X,8.8,6.2,7.6,37,175,s.o.,s.o.
+17504,2014,Mazda,Mazda6 (i-ELOOP),Intermédiaire,2.5,4,AS6,X,8.4,5.9,7.3,39,168,s.o.,s.o.
+17505,2014,Mazda,Mazda6,Intermédiaire,2.5,4,M6,X,9.4,6.4,8.1,35,186,s.o.,s.o.
+17506,2014,Mazda,MX-5,Deux places,2.0,4,AS6,Z,11.5,8.5,10.2,28,235,s.o.,s.o.
+17507,2014,Mazda,MX-5,Deux places,2.0,4,M5,Z,10.5,8.5,9.6,29,221,s.o.,s.o.
+17508,2014,Mazda,MX-5,Deux places,2.0,4,M6,Z,11.1,8.4,9.9,29,228,s.o.,s.o.
+17509,2014,Mercedes-Benz,B 250,Familiale : petite,2.0,4,AS7,Z,9.2,6.6,8.0,35,184,s.o.,s.o.
+17510,2014,Mercedes-Benz,C 250,Compacte,1.8,4,AS7,Z,10.9,7.5,9.4,30,216,s.o.,s.o.
+17511,2014,Mercedes-Benz,C 250 Coupe,Sous-compacte,1.8,4,AS7,Z,11.0,7.4,9.4,30,216,s.o.,s.o.
+17512,2014,Mercedes-Benz,C 300 4MATIC FFV,Compacte,3.5,6,AS7,Z,12.2,8.5,10.5,27,242,s.o.,s.o.
+17513,2014,Mercedes-Benz,C 300 4MATIC FFV,Compacte,3.5,6,AS7,E,16.4,11.1,14.0,20,224,s.o.,s.o.
+17514,2014,Mercedes-Benz,C 350,Compacte,3.5,6,AS7,Z,12.0,8.6,10.5,27,242,s.o.,s.o.
+17515,2014,Mercedes-Benz,C 350 4MATIC,Compacte,3.5,6,AS7,Z,11.9,8.6,10.4,27,239,s.o.,s.o.
+17516,2014,Mercedes-Benz,C 350 Coupe,Sous-compacte,3.5,6,AS7,Z,12.1,8.6,10.5,27,242,s.o.,s.o.
+17517,2014,Mercedes-Benz,C 350 4MATIC Coupe,Sous-compacte,3.5,6,AS7,Z,12.1,8.7,10.6,27,244,s.o.,s.o.
+17518,2014,Mercedes-Benz,C 63 AMG,Compacte,6.2,8,AS7,Z,17.7,11.9,15.1,19,347,s.o.,s.o.
+17519,2014,Mercedes-Benz,C 63 AMG Coupe,Sous-compacte,6.2,8,AS7,Z,17.9,12.2,15.3,18,352,s.o.,s.o.
+17520,2014,Mercedes-Benz,CL 550 4MATIC,Compacte,4.7,8,AS7,Z,15.4,10.4,13.2,21,304,s.o.,s.o.
+17521,2014,Mercedes-Benz,CL 63 AMG,Compacte,5.5,8,AS7,Z,15.4,11.0,13.4,21,308,s.o.,s.o.
+17522,2014,Mercedes-Benz,CLA 250,Compacte,2.0,4,AS7,Z,9.1,6.2,7.8,36,179,s.o.,s.o.
+17523,2014,Mercedes-Benz,CLA 45 AMG 4MATIC,Compacte,2.0,4,AS7,Z,10.3,7.8,9.2,31,212,s.o.,s.o.
+17524,2014,Mercedes-Benz,CLS 550 4MATIC,Compacte,4.7,8,AS7,Z,13.3,9.4,11.5,25,264,s.o.,s.o.
+17525,2014,Mercedes-Benz,CLS 63 AMG 4MATIC,Compacte,5.5,8,AS7,Z,15.1,10.7,13.1,22,301,s.o.,s.o.
+17526,2014,Mercedes-Benz,CLS 63 AMG S 4MATIC,Compacte,5.5,8,AS7,Z,15.1,10.7,13.1,22,301,s.o.,s.o.
+17527,2014,Mercedes-Benz,E 250 BlueTec 4MATIC,Intermédiaire,2.1,4,AS7,D,8.5,5.7,7.2,39,194,s.o.,s.o.
+17528,2014,Mercedes-Benz,E 300 4MATIC,Intermédiaire,3.5,6,AS7,Z,11.8,8.2,10.2,28,235,s.o.,s.o.
+17529,2014,Mercedes-Benz,E 350 4MATIC,Intermédiaire,3.5,6,AS7,Z,11.6,8.1,10.0,28,230,s.o.,s.o.
+17530,2014,Mercedes-Benz,E 350 Cabriolet,Sous-compacte,3.5,6,AS7,Z,12.0,8.5,10.4,27,239,s.o.,s.o.
+17531,2014,Mercedes-Benz,E 350 Coupe,Sous-compacte,3.5,6,AS7,Z,11.9,8.2,10.2,28,235,s.o.,s.o.
+17532,2014,Mercedes-Benz,E 350 4MATIC Coupe,Sous-compacte,3.5,6,AS7,Z,11.9,8.5,10.4,27,239,s.o.,s.o.
+17533,2014,Mercedes-Benz,E 350 4MATIC Wagon,Familiale : intermédiaire,3.5,6,AS7,Z,12.1,8.6,10.5,27,242,s.o.,s.o.
+17534,2014,Mercedes-Benz,E 400 Hybrid,Intermédiaire,3.5,6,AS7,Z,9.6,7.9,8.8,32,202,s.o.,s.o.
+17535,2014,Mercedes-Benz,E 550 4MATIC,Intermédiaire,4.7,8,AS7,Z,13.6,9.1,11.6,24,267,s.o.,s.o.
+17536,2014,Mercedes-Benz,E 550 Cabriolet,Sous-compacte,4.7,8,AS7,Z,13.7,9.3,11.7,24,269,s.o.,s.o.
+17537,2014,Mercedes-Benz,E 550 Coupe,Sous-compacte,4.7,8,AS7,Z,13.4,8.9,11.4,25,262,s.o.,s.o.
+17538,2014,Mercedes-Benz,E 63 AMG 4MATIC,Intermédiaire,5.5,8,AS7,Z,15.0,10.3,12.9,22,297,s.o.,s.o.
+17539,2014,Mercedes-Benz,E 63 AMG 4MATIC Wagon,Familiale : intermédiaire,5.5,8,AS7,Z,15.5,11.0,13.5,21,310,s.o.,s.o.
+17540,2014,Mercedes-Benz,E 63 AMG S 4MATIC,Intermédiaire,5.5,8,AS7,Z,15.0,10.3,12.9,22,297,s.o.,s.o.
+17541,2014,Mercedes-Benz,E 63 AMG S 4MATIC Wagon,Familiale : intermédiaire,5.5,8,AS7,Z,15.5,11.0,13.5,21,310,s.o.,s.o.
+17542,2014,Mercedes-Benz,G 550,Véhicule utilitaire sport : ordinaire,5.5,8,AS7,Z,20.0,15.9,18.2,16,419,s.o.,s.o.
+17543,2014,Mercedes-Benz,G 63 AMG,Véhicule utilitaire sport : ordinaire,5.5,8,AS7,Z,19.4,15.7,17.7,16,407,s.o.,s.o.
+17544,2014,Mercedes-Benz,GL 350 BlueTec 4MATIC,Véhicule utilitaire sport : ordinaire,3.0,6,AS7,D,13.4,10.2,12.0,24,324,s.o.,s.o.
+17545,2014,Mercedes-Benz,GL 450 4MATIC,Véhicule utilitaire sport : ordinaire,4.7,8,AS7,Z,17.1,12.8,15.2,19,350,s.o.,s.o.
+17546,2014,Mercedes-Benz,GL 550 4MATIC,Véhicule utilitaire sport : ordinaire,4.7,8,AS7,Z,17.6,13.1,15.6,18,359,s.o.,s.o.
+17547,2014,Mercedes-Benz,GL 63 AMG,Véhicule utilitaire sport : ordinaire,5.5,8,AS7,Z,17.7,13.4,15.8,18,363,s.o.,s.o.
+17548,2014,Mercedes-Benz,GLK 250 BlueTec 4MATIC,Véhicule utilitaire sport : petit,2.1,4,AS7,D,9.6,7.1,8.5,33,230,s.o.,s.o.
+17549,2014,Mercedes-Benz,GLK 350 4MATIC,Véhicule utilitaire sport : petit,3.5,6,AS7,Z,12.6,9.6,11.3,25,260,s.o.,s.o.
+17550,2014,Mercedes-Benz,ML 350 BlueTec 4MATIC,Véhicule utilitaire sport : ordinaire,3.0,6,AS7,D,11.8,8.5,10.3,27,278,s.o.,s.o.
+17551,2014,Mercedes-Benz,ML 350 4MATIC FFV,Véhicule utilitaire sport : ordinaire,3.5,6,AS7,Z,13.4,10.5,12.1,23,278,s.o.,s.o.
+17552,2014,Mercedes-Benz,ML 350 4MATIC FFV,Véhicule utilitaire sport : ordinaire,3.5,6,AS7,E,17.8,13.8,16.0,18,256,s.o.,s.o.
+17553,2014,Mercedes-Benz,ML 550 4MATIC,Véhicule utilitaire sport : ordinaire,4.7,8,AS7,Z,16.2,11.8,14.2,20,327,s.o.,s.o.
+17554,2014,Mercedes-Benz,ML 63 AMG 4MATIC,Véhicule utilitaire sport : ordinaire,5.5,8,AS7,Z,17.2,13.5,15.5,18,356,s.o.,s.o.
+17555,2014,Mercedes-Benz,S 550 4MATIC SWB,Grande berline,4.7,8,AS7,Z,14.2,9.4,12.0,24,276,s.o.,s.o.
+17556,2014,Mercedes-Benz,S 550 4MATIC LWB,Grande berline,4.7,8,AS7,Z,14.3,9.5,12.1,23,278,s.o.,s.o.
+17557,2014,Mercedes-Benz,S 63 AMG 4MATIC,Grande berline,5.5,8,AS7,Z,15.6,10.3,13.2,21,304,s.o.,s.o.
+17558,2014,Mercedes-Benz,SL 550,Deux places,4.7,8,AS7,Z,13.4,9.6,11.7,24,269,s.o.,s.o.
+17559,2014,Mercedes-Benz,SL 63 AMG,Deux places,5.5,8,AS7,Z,14.8,10.2,12.7,22,292,s.o.,s.o.
+17560,2014,Mercedes-Benz,SL 65 AMG,Deux places,6.0,8,AS7,Z,16.7,11.2,14.2,20,327,s.o.,s.o.
+17561,2014,Mercedes-Benz,SLK 250,Deux places,1.8,4,AS7,Z,10.3,7.2,8.9,32,205,s.o.,s.o.
+17562,2014,Mercedes-Benz,SLK 250,Deux places,1.8,4,M6,Z,10.4,7.3,9.0,31,207,s.o.,s.o.
+17563,2014,Mercedes-Benz,SLK 350,Deux places,3.5,6,AS7,Z,11.1,8.1,9.8,29,225,s.o.,s.o.
+17564,2014,Mercedes-Benz,SLK 55 AMG,Deux places,5.5,8,AS7,Z,12.3,8.7,10.7,26,246,s.o.,s.o.
+17565,2014,Mercedes-Benz,SLS AMG Black Series Coupe,Deux places,6.2,8,AS7,Z,18.7,13.9,16.5,17,380,s.o.,s.o.
+17566,2014,Mercedes-Benz,SLS AMG GT Coupe,Deux places,6.2,8,AS7,Z,18.2,12.6,15.7,18,361,s.o.,s.o.
+17567,2014,Mercedes-Benz,SLS AMG Roadster,Deux places,6.2,8,AS7,Z,18.2,12.6,15.7,18,361,s.o.,s.o.
+17568,2014,MINI,Cooper Clubman,Sous-compacte,1.6,4,A6,Z,8.7,6.6,7.8,36,179,s.o.,s.o.
+17569,2014,MINI,Cooper Clubman,Sous-compacte,1.6,4,M6,Z,8.6,6.8,7.8,36,179,s.o.,s.o.
+17570,2014,MINI,Cooper Convertible,Minicompacte,1.6,4,A6,Z,8.7,6.6,7.8,36,179,s.o.,s.o.
+17571,2014,MINI,Cooper Convertible,Minicompacte,1.6,4,M6,Z,8.6,6.8,7.8,36,179,s.o.,s.o.
+17572,2014,MINI,Cooper Countryman,Compacte,1.6,4,A6,Z,9.4,7.9,8.7,32,200,s.o.,s.o.
+17573,2014,MINI,Cooper Countryman,Compacte,1.6,4,M6,Z,8.6,6.8,7.8,36,179,s.o.,s.o.
+17574,2014,MINI,Cooper Coupe,Deux places,1.6,4,A6,Z,8.5,6.6,7.6,37,175,s.o.,s.o.
+17575,2014,MINI,Cooper Coupe,Deux places,1.6,4,M6,Z,8.0,6.4,7.3,39,168,s.o.,s.o.
+17576,2014,MINI,Cooper Paceman,Compacte,1.6,4,A6,Z,9.4,7.9,8.7,32,200,s.o.,s.o.
+17577,2014,MINI,Cooper Paceman,Compacte,1.6,4,M6,Z,8.6,6.8,7.8,36,179,s.o.,s.o.
+17578,2014,MINI,Cooper Roadster,Deux places,1.6,4,A6,Z,8.7,6.6,7.8,36,179,s.o.,s.o.
+17579,2014,MINI,Cooper Roadster,Deux places,1.6,4,M6,Z,8.6,6.8,7.8,36,179,s.o.,s.o.
+17580,2014,MINI,Cooper S Clubman,Sous-compacte,1.6,4,A6,Z,9.3,7.0,8.3,34,191,s.o.,s.o.
+17581,2014,MINI,Cooper S Clubman,Sous-compacte,1.6,4,M6,Z,9.1,6.7,8.0,35,184,s.o.,s.o.
+17582,2014,MINI,Cooper S Convertible,Minicompacte,1.6,4,A6,Z,9.3,7.0,8.3,34,191,s.o.,s.o.
+17583,2014,MINI,Cooper S Convertible,Minicompacte,1.6,4,M6,Z,9.1,6.7,8.0,35,184,s.o.,s.o.
+17584,2014,MINI,Cooper S Countryman ALL4,Compacte,1.6,4,A6,Z,10.0,7.8,9.0,31,207,s.o.,s.o.
+17585,2014,MINI,Cooper S Countryman ALL4,Compacte,1.6,4,M6,Z,9.3,7.5,8.5,33,196,s.o.,s.o.
+17586,2014,MINI,Cooper S Coupe,Deux places,1.6,4,A6,Z,9.3,7.0,8.3,34,191,s.o.,s.o.
+17587,2014,MINI,Cooper S Coupe,Deux places,1.6,4,M6,Z,9.1,6.7,8.0,35,184,s.o.,s.o.
+17588,2014,MINI,Cooper S Paceman ALL4,Compacte,1.6,4,A6,Z,10.0,7.8,9.0,31,207,s.o.,s.o.
+17589,2014,MINI,Cooper S Paceman ALL4,Compacte,1.6,4,M6,Z,9.3,7.5,8.5,33,196,s.o.,s.o.
+17590,2014,MINI,Cooper S Roadster,Deux places,1.6,4,A6,Z,9.3,7.0,8.3,34,191,s.o.,s.o.
+17591,2014,MINI,Cooper S Roadster,Deux places,1.6,4,M6,Z,9.1,6.7,8.0,35,184,s.o.,s.o.
+17592,2014,MINI,John Cooper Works Clubman,Sous-compacte,1.6,4,A6,Z,9.3,7.0,8.3,34,191,s.o.,s.o.
+17593,2014,MINI,John Cooper Works Clubman,Sous-compacte,1.6,4,M6,Z,9.1,6.7,8.0,35,184,s.o.,s.o.
+17594,2014,MINI,John Cooper Works Convertible,Minicompacte,1.6,4,A6,Z,9.3,7.0,8.3,34,191,s.o.,s.o.
+17595,2014,MINI,John Cooper Works Convertible,Minicompacte,1.6,4,M6,Z,9.1,6.7,8.0,35,184,s.o.,s.o.
+17596,2014,MINI,John Cooper Works Countryman ALL4,Compacte,1.6,4,A6,Z,10.0,7.8,9.0,31,207,s.o.,s.o.
+17597,2014,MINI,John Cooper Works Countryman ALL4,Compacte,1.6,4,M6,Z,9.3,7.5,8.5,33,196,s.o.,s.o.
+17598,2014,MINI,John Cooper Works Coupe,Deux places,1.6,4,A6,Z,9.3,7.0,8.3,34,191,s.o.,s.o.
+17599,2014,MINI,John Cooper Works Coupe,Deux places,1.6,4,M6,Z,9.1,6.7,8.0,35,184,s.o.,s.o.
+17600,2014,MINI,John Cooper Works Paceman ALL4,Compacte,1.6,4,A6,Z,10.0,7.8,9.0,31,207,s.o.,s.o.
+17601,2014,MINI,John Cooper Works Paceman ALL4,Compacte,1.6,4,M6,Z,9.3,7.5,8.5,33,196,s.o.,s.o.
+17602,2014,MINI,John Cooper Works Roadster,Deux places,1.6,4,A6,Z,9.3,7.0,8.3,34,191,s.o.,s.o.
+17603,2014,MINI,John Cooper Works Roadster,Deux places,1.6,4,M6,Z,9.1,6.7,8.0,35,184,s.o.,s.o.
+17604,2014,Mitsubishi,Lancer,Compacte,2.0,4,AV,X,9.2,7.0,8.2,34,189,s.o.,s.o.
+17605,2014,Mitsubishi,Lancer,Compacte,2.0,4,M5,X,9.6,6.8,8.3,34,191,s.o.,s.o.
+17606,2014,Mitsubishi,Lancer AWD,Compacte,2.4,4,AV,X,10.5,8.2,9.5,30,218,s.o.,s.o.
+17607,2014,Mitsubishi,Lancer Evolution,Compacte,2.0,4,AM6,Z,14.2,10.5,12.5,23,288,s.o.,s.o.
+17608,2014,Mitsubishi,Lancer Evolution,Compacte,2.0,4,M5,Z,14.0,10.3,12.3,23,283,s.o.,s.o.
+17609,2014,Mitsubishi,Lancer Ralliart,Compacte,2.0,4,AM6,Z,13.4,9.4,11.6,24,267,s.o.,s.o.
+17610,2014,Mitsubishi,Lancer Sportback,Familiale : petite,2.0,4,AV,X,9.6,7.3,8.6,33,198,s.o.,s.o.
+17611,2014,Mitsubishi,Lancer Sportback,Familiale : petite,2.0,4,M5,X,9.8,7.1,8.6,33,198,s.o.,s.o.
+17612,2014,Mitsubishi,Mirage,Compacte,1.2,3,AV,X,6.4,5.4,6.0,47,138,s.o.,s.o.
+17613,2014,Mitsubishi,Mirage,Compacte,1.2,3,M5,X,7.0,5.6,6.4,44,147,s.o.,s.o.
+17614,2014,Mitsubishi,Outlander,Véhicule utilitaire sport : petit,2.4,4,AV,X,9.5,7.5,8.6,33,198,s.o.,s.o.
+17615,2014,Mitsubishi,Outlander 4WD,Véhicule utilitaire sport : petit,2.4,4,AV,X,9.9,8.1,9.1,31,209,s.o.,s.o.
+17616,2014,Mitsubishi,Outlander 4WD,Véhicule utilitaire sport : petit,3.0,6,AS6,Z,11.5,8.5,10.2,28,235,s.o.,s.o.
+17617,2014,Mitsubishi,RVR,Véhicule utilitaire sport : petit,2.0,4,AV,X,9.6,7.6,8.7,32,200,s.o.,s.o.
+17618,2014,Mitsubishi,RVR,Véhicule utilitaire sport : petit,2.0,4,M5,X,9.9,7.5,8.8,32,202,s.o.,s.o.
+17619,2014,Mitsubishi,RVR 4WD,Véhicule utilitaire sport : petit,2.0,4,AV,X,9.8,8.0,9.0,31,207,s.o.,s.o.
+17620,2014,Nissan,370Z,Deux places,3.7,6,AS7,Z,12.6,9.1,11.0,26,253,s.o.,s.o.
+17621,2014,Nissan,370Z,Deux places,3.7,6,M6,Z,13.3,9.3,11.5,25,264,s.o.,s.o.
+17622,2014,Nissan,370Z Roadster,Deux places,3.7,6,AS7,Z,13.0,9.5,11.4,25,262,s.o.,s.o.
+17623,2014,Nissan,370Z Roadster,Deux places,3.7,6,M6,Z,13.5,9.6,11.7,24,269,s.o.,s.o.
+17624,2014,Nissan,Altima,Intermédiaire,2.5,4,AV,X,8.7,6.2,7.6,37,175,s.o.,s.o.
+17625,2014,Nissan,Altima,Intermédiaire,3.5,6,AV,X,10.8,7.4,9.3,30,214,s.o.,s.o.
+17626,2014,Nissan,Armada 4WD,Véhicule utilitaire sport : ordinaire,5.6,8,A5,X,19.1,13.4,16.5,17,380,s.o.,s.o.
+17627,2014,Nissan,Frontier,Camionnette : petite,2.5,4,A5,X,13.7,10.6,12.3,23,283,s.o.,s.o.
+17628,2014,Nissan,Frontier,Camionnette : petite,2.5,4,M5,X,12.2,10.2,11.3,25,260,s.o.,s.o.
+17629,2014,Nissan,Frontier,Camionnette : petite,4.0,6,A5,X,14.7,10.2,12.7,22,292,s.o.,s.o.
+17630,2014,Nissan,Frontier 4WD,Camionnette : petite,4.0,6,A5,X,15.7,11.2,13.7,21,315,s.o.,s.o.
+17631,2014,Nissan,Frontier 4WD,Camionnette : petite,4.0,6,M6,X,14.8,11.0,13.1,22,301,s.o.,s.o.
+17632,2014,Nissan,GT-R,Sous-compacte,3.8,6,AM6,Z,14.5,10.9,12.9,22,297,s.o.,s.o.
+17633,2014,Nissan,Juke,Familiale : petite,1.6,4,AV,Z,8.7,7.3,8.1,35,186,s.o.,s.o.
+17634,2014,Nissan,Juke,Familiale : petite,1.6,4,M6,Z,9.5,7.6,8.6,33,198,s.o.,s.o.
+17635,2014,Nissan,Juke AWD,Familiale : petite,1.6,4,AV,Z,9.3,7.9,8.7,32,200,s.o.,s.o.
+17636,2014,Nissan,Maxima,Intermédiaire,3.5,6,AV,Z,12.3,9.1,10.9,26,251,s.o.,s.o.
+17637,2014,Nissan,Murano AWD,Véhicule utilitaire sport : petit,3.5,6,AV,X,13.2,10.1,11.8,24,271,s.o.,s.o.
+17638,2014,Nissan,NV200 Cargo Van,Véhicule à usage spécial,2.0,4,AV,X,10.0,8.5,9.3,30,214,s.o.,s.o.
+17639,2014,Nissan,Pathfinder,Véhicule utilitaire sport : petit,3.5,6,AV,X,12.0,8.9,10.6,27,244,s.o.,s.o.
+17640,2014,Nissan,Pathfinder 4WD,Véhicule utilitaire sport : petit,3.5,6,AV,X,12.3,9.3,11.0,26,253,s.o.,s.o.
+17641,2014,Nissan,Pathfinder Hybrid 4WD,Véhicule utilitaire sport : ordinaire,2.5,4,AV,X,9.1,8.5,8.8,32,202,s.o.,s.o.
+17642,2014,Nissan,Quest,Fourgonnette,3.5,6,AV,X,12.5,9.5,11.1,25,255,s.o.,s.o.
+17643,2014,Nissan,Rogue,Véhicule utilitaire sport : petit,2.5,4,AV,X,9.2,7.2,8.3,34,191,s.o.,s.o.
+17644,2014,Nissan,Rogue AWD,Véhicule utilitaire sport : petit,2.5,4,AV,X,9.5,7.4,8.6,33,198,s.o.,s.o.
+17645,2014,Nissan,Sentra,Intermédiaire,1.8,4,AV,X,7.8,6.0,7.0,40,161,s.o.,s.o.
+17646,2014,Nissan,Sentra,Intermédiaire,1.8,4,M6,X,8.7,6.6,7.8,36,179,s.o.,s.o.
+17647,2014,Nissan,Titan,Camionnette : ordinaire,5.6,8,A5,X,17.9,12.8,15.6,18,359,s.o.,s.o.
+17648,2014,Nissan,Titan 4WD,Camionnette : ordinaire,5.6,8,A5,X,19.7,14.3,17.3,16,398,s.o.,s.o.
+17649,2014,Nissan,Versa,Compacte,1.6,4,AV,X,7.2,5.8,6.6,43,152,s.o.,s.o.
+17650,2014,Nissan,Versa,Compacte,1.6,4,M5,X,8.6,6.5,7.7,37,177,s.o.,s.o.
+17651,2014,Nissan,Xterra 4WD,Véhicule utilitaire sport : petit,4.0,6,A5,X,16.1,11.9,14.2,20,327,s.o.,s.o.
+17652,2014,Nissan,Xterra 4WD,Véhicule utilitaire sport : petit,4.0,6,M6,X,15.2,11.9,13.7,21,315,s.o.,s.o.
+17653,2014,Porsche,911 Carrera,Minicompacte,3.4,6,AM7,Z,11.6,8.3,10.1,28,232,s.o.,s.o.
+17654,2014,Porsche,911 Carrera,Minicompacte,3.4,6,M7,Z,12.5,8.6,10.7,26,246,s.o.,s.o.
+17655,2014,Porsche,911 Carrera 4,Minicompacte,3.4,6,AM7,Z,11.8,8.5,10.3,27,237,s.o.,s.o.
+17656,2014,Porsche,911 Carrera 4,Minicompacte,3.4,6,M7,Z,12.4,8.6,10.7,26,246,s.o.,s.o.
+17657,2014,Porsche,911 Carrera Cabriolet,Minicompacte,3.4,6,AM7,Z,11.6,8.3,10.1,28,232,s.o.,s.o.
+17658,2014,Porsche,911 Carrera Cabriolet,Minicompacte,3.4,6,M7,Z,12.4,8.6,10.7,26,246,s.o.,s.o.
+17659,2014,Porsche,911 Carrera 4 Cabriolet,Minicompacte,3.4,6,AM7,Z,12.0,8.7,10.5,27,242,s.o.,s.o.
+17660,2014,Porsche,911 Carrera 4 Cabriolet,Minicompacte,3.4,6,M7,Z,12.6,9.0,11.0,26,253,s.o.,s.o.
+17661,2014,Porsche,911 Carrera S,Minicompacte,3.8,6,AM7,Z,12.1,8.7,10.6,27,244,s.o.,s.o.
+17662,2014,Porsche,911 Carrera S,Minicompacte,3.8,6,M7,Z,12.6,8.6,10.8,26,248,s.o.,s.o.
+17663,2014,Porsche,911 Carrera 4S,Minicompacte,3.8,6,AM7,Z,12.3,8.9,10.8,26,248,s.o.,s.o.
+17664,2014,Porsche,911 Carrera 4S,Minicompacte,3.8,6,M7,Z,12.8,8.9,11.0,26,253,s.o.,s.o.
+17665,2014,Porsche,911 Carrera S Cabriolet,Minicompacte,3.8,6,AM7,Z,12.4,8.7,10.7,26,246,s.o.,s.o.
+17666,2014,Porsche,911 Carrera S Cabriolet,Minicompacte,3.8,6,M7,Z,12.6,8.8,10.9,26,251,s.o.,s.o.
+17667,2014,Porsche,911 Carrera 4S Cabriolet,Minicompacte,3.8,6,AM7,Z,12.7,9.0,11.0,26,253,s.o.,s.o.
+17668,2014,Porsche,911 Carrera 4S Cabriolet,Minicompacte,3.8,6,M7,Z,12.9,9.1,11.2,25,258,s.o.,s.o.
+17669,2014,Porsche,911 GT3,Deux places,3.8,6,AM7,Z,16.0,11.5,14.0,20,322,s.o.,s.o.
+17670,2014,Porsche,911 Turbo,Minicompacte,3.8,6,AM7,Z,13.7,9.6,11.9,24,274,s.o.,s.o.
+17671,2014,Porsche,911 Turbo Cabriolet,Minicompacte,3.8,6,AM7,Z,13.7,9.6,11.9,24,274,s.o.,s.o.
+17672,2014,Porsche,911 Turbo S,Minicompacte,3.8,6,AM7,Z,13.7,9.6,11.9,24,274,s.o.,s.o.
+17673,2014,Porsche,911 Turbo S Cabriolet,Minicompacte,3.8,6,AM7,Z,13.7,9.6,11.9,24,274,s.o.,s.o.
+17674,2014,Porsche,Boxster,Deux places,2.7,6,AM7,Z,10.7,7.4,9.2,31,212,s.o.,s.o.
+17675,2014,Porsche,Boxster,Deux places,2.7,6,M6,Z,11.5,7.9,9.9,29,228,s.o.,s.o.
+17676,2014,Porsche,Boxster S,Deux places,3.4,6,AM7,Z,11.3,7.9,9.8,29,225,s.o.,s.o.
+17677,2014,Porsche,Boxster S,Deux places,3.4,6,M6,Z,11.9,8.6,10.4,27,239,s.o.,s.o.
+17678,2014,Porsche,Cayenne Diesel (modified),Véhicule utilitaire sport : ordinaire,3.0,6,A8,D,11.8,8.1,10.2,28,277,s.o.,s.o.
+17679,2014,Porsche,Cayenne,Véhicule utilitaire sport : ordinaire,3.6,6,A8,Z,14.1,10.2,12.4,23,290,s.o.,s.o.
+17680,2014,Porsche,Cayenne,Véhicule utilitaire sport : ordinaire,3.6,6,M6,Z,15.8,10.9,13.6,21,313,s.o.,s.o.
+17681,2014,Porsche,Cayenne S,Véhicule utilitaire sport : ordinaire,4.8,8,A8,Z,15.5,10.7,13.2,21,310,s.o.,s.o.
+17682,2014,Porsche,Cayenne S Hybrid,Véhicule utilitaire sport : ordinaire,3.0,6,A8,Z,11.8,9.9,10.9,26,251,s.o.,s.o.
+17683,2014,Porsche,Cayenne GTS,Véhicule utilitaire sport : ordinaire,4.8,8,A8,Z,16.7,11.5,14.4,20,338,s.o.,s.o.
+17684,2014,Porsche,Cayenne Turbo,Véhicule utilitaire sport : ordinaire,4.8,8,A8,Z,16.3,11.0,13.9,20,326,s.o.,s.o.
+17685,2014,Porsche,Cayenne Turbo S,Véhicule utilitaire sport : ordinaire,4.8,8,A8,Z,18.0,11.9,15.2,19,358,s.o.,s.o.
+17686,2014,Porsche,Cayman,Deux places,2.7,6,AM7,Z,10.7,7.4,9.2,31,212,s.o.,s.o.
+17687,2014,Porsche,Cayman,Deux places,2.7,6,M6,Z,11.5,7.9,9.9,29,228,s.o.,s.o.
+17688,2014,Porsche,Cayman S,Deux places,3.4,6,AM7,Z,11.3,7.9,9.8,29,225,s.o.,s.o.
+17689,2014,Porsche,Cayman S,Deux places,3.4,6,M6,Z,11.9,8.6,10.4,27,239,s.o.,s.o.
+17690,2014,Porsche,Panamera,Grande berline,3.6,6,AM7,Z,12.9,8.4,10.9,26,251,s.o.,s.o.
+17691,2014,Porsche,Panamera 4,Grande berline,3.6,6,AM7,Z,13.1,8.7,11.1,25,255,s.o.,s.o.
+17692,2014,Porsche,Panamera S,Grande berline,3.0,6,AM7,Z,13.4,8.8,11.3,25,260,s.o.,s.o.
+17693,2014,Porsche,Panamera 4S,Grande berline,3.0,6,AM7,Z,13.4,8.8,11.3,25,260,s.o.,s.o.
+17694,2014,Porsche,Panamera 4S Executive,Grande berline,3.0,6,AM7,Z,13.7,8.9,11.5,25,264,s.o.,s.o.
+17695,2014,Porsche,Panamera GTS,Grande berline,4.8,8,AM7,Z,15.1,9.7,12.7,22,292,s.o.,s.o.
+17696,2014,Porsche,Panamera Turbo,Grande berline,4.8,8,AM7,Z,15.3,9.7,12.8,22,294,s.o.,s.o.
+17697,2014,Porsche,Panamera Turbo Executive,Grande berline,4.8,8,AM7,Z,15.4,9.8,12.9,22,297,s.o.,s.o.
+17698,2014,Ram,1500 FFV,Camionnette : ordinaire,3.6,6,A8,X,13.9,9.5,11.9,24,274,s.o.,s.o.
+17699,2014,Ram,1500 FFV,Camionnette : ordinaire,3.6,6,A8,E,19.4,13.6,16.8,17,269,s.o.,s.o.
+17700,2014,Ram,1500 HFE,Camionnette : ordinaire,3.6,6,A8,X,12.9,9.3,11.3,25,260,s.o.,s.o.
+17701,2014,Ram,1500 (MDS),Camionnette : ordinaire,5.7,8,A6,X,17.1,12.0,14.8,19,340,s.o.,s.o.
+17702,2014,Ram,1500 (MDS),Camionnette : ordinaire,5.7,8,A8,X,15.8,10.9,13.6,21,313,s.o.,s.o.
+17703,2014,Ram,1500 4X4 FFV,Camionnette : ordinaire,3.6,6,A8,X,14.6,10.1,12.6,22,290,s.o.,s.o.
+17704,2014,Ram,1500 4X4 FFV,Camionnette : ordinaire,3.6,6,A8,E,20.5,14.5,17.8,16,285,s.o.,s.o.
+17705,2014,Ram,1500 4X4 (MDS),Camionnette : ordinaire,5.7,8,A6,X,17.6,12.7,15.4,18,354,s.o.,s.o.
+17706,2014,Ram,1500 4X4 (MDS),Camionnette : ordinaire,5.7,8,A8,X,16.3,11.5,14.1,20,324,s.o.,s.o.
+17707,2014,Ram,Cargo Van FFV,Fourgonnette,3.6,6,A6,X,13.3,9.1,11.4,25,262,s.o.,s.o.
+17708,2014,Ram,Cargo Van FFV,Fourgonnette,3.6,6,A6,E,18.6,12.7,15.9,18,254,s.o.,s.o.
+17709,2014,Rolls-Royce,Ghost,Grande berline,6.6,12,A8,Z,19.1,12.3,16.0,18,368,s.o.,s.o.
+17710,2014,Rolls-Royce,Ghost EWB,Grande berline,6.6,12,A8,Z,19.1,12.3,16.0,18,368,s.o.,s.o.
+17711,2014,Rolls-Royce,Phantom,Grande berline,6.7,12,A8,Z,20.7,12.8,17.1,17,393,s.o.,s.o.
+17712,2014,Rolls-Royce,Phantom EWB,Grande berline,6.7,12,A8,Z,20.7,12.7,17.1,17,393,s.o.,s.o.
+17713,2014,Rolls-Royce,Phantom Coupe,Compacte,6.7,12,A8,Z,20.7,12.8,17.1,17,393,s.o.,s.o.
+17714,2014,Rolls-Royce,Phantom Drophead Coupe,Compacte,6.7,12,A8,Z,20.7,12.7,17.1,17,393,s.o.,s.o.
+17715,2014,Rolls-Royce,Wraith,Intermédiaire,6.6,12,A8,Z,18.7,11.8,15.6,18,359,s.o.,s.o.
+17716,2014,Scion,FR-S,Minicompacte,2.0,4,AS6,Z,9.6,7.0,8.4,34,193,s.o.,s.o.
+17717,2014,Scion,FR-S,Minicompacte,2.0,4,M6,Z,10.9,7.8,9.5,30,218,s.o.,s.o.
+17718,2014,Scion,iQ,Minicompacte,1.3,4,AV,X,6.6,5.7,6.2,46,143,s.o.,s.o.
+17719,2014,Scion,tC,Compacte,2.5,4,AS6,X,10.2,7.5,9.0,31,207,s.o.,s.o.
+17720,2014,Scion,tC,Compacte,2.5,4,M6,X,10.2,7.6,9.0,31,207,s.o.,s.o.
+17721,2014,Scion,xB,Familiale : petite,2.4,4,AS4,X,10.9,8.6,9.9,29,228,s.o.,s.o.
+17722,2014,Scion,xB,Familiale : petite,2.4,4,M5,X,10.9,8.6,9.9,29,228,s.o.,s.o.
+17723,2014,Scion,xD,Sous-compacte,1.8,4,A4,X,8.8,7.1,8.0,35,184,s.o.,s.o.
+17724,2014,Scion,xD,Sous-compacte,1.8,4,M5,X,8.6,7.1,7.9,36,182,s.o.,s.o.
+17725,2014,smart,fortwo cabriolet,Deux places,1.0,3,AM5,Z,6.9,5.7,6.4,44,147,s.o.,s.o.
+17726,2014,smart,fortwo coupe,Deux places,1.0,3,AM5,Z,6.9,5.7,6.4,44,147,s.o.,s.o.
+17727,2014,SRT,Viper Coupe,Deux places,8.4,10,M6,Z,20.0,13.0,16.9,17,389,s.o.,s.o.
+17728,2014,SRT,Viper GTS Coupe,Deux places,8.4,10,M6,Z,20.0,13.0,16.9,17,389,s.o.,s.o.
+17729,2014,Subaru,BRZ,Minicompacte,2.0,4,AS6,Z,9.6,7.1,8.5,33,196,s.o.,s.o.
+17730,2014,Subaru,BRZ,Minicompacte,2.0,4,M6,Z,11.0,7.9,9.6,29,221,s.o.,s.o.
+17731,2014,Subaru,Forester AWD,Véhicule utilitaire sport : petit,2.0,4,AV,Z,10.2,8.6,9.5,30,218,s.o.,s.o.
+17732,2014,Subaru,Forester AWD,Véhicule utilitaire sport : petit,2.5,4,AV,X,9.6,7.4,8.6,33,198,s.o.,s.o.
+17733,2014,Subaru,Forester AWD,Véhicule utilitaire sport : petit,2.5,4,M6,X,10.9,8.3,9.7,29,223,s.o.,s.o.
+17734,2014,Subaru,Impreza AWD,Compacte,2.0,4,AV,X,8.7,6.6,7.8,36,179,s.o.,s.o.
+17735,2014,Subaru,Impreza AWD,Compacte,2.0,4,M5,X,9.6,7.1,8.5,33,196,s.o.,s.o.
+17736,2014,Subaru,Impreza AWD,Compacte,2.5,4,M5,Z,12.6,9.5,11.2,25,258,s.o.,s.o.
+17737,2014,Subaru,Impreza AWD,Compacte,2.5,4,M6,Z,14.2,10.4,12.5,23,288,s.o.,s.o.
+17738,2014,Subaru,Impreza Wagon AWD,Familiale : petite,2.0,4,AV,X,8.7,6.6,7.8,36,179,s.o.,s.o.
+17739,2014,Subaru,Impreza Wagon AWD,Familiale : petite,2.0,4,M5,X,9.6,7.1,8.5,33,196,s.o.,s.o.
+17740,2014,Subaru,Impreza Wagon AWD,Familiale : petite,2.5,4,M5,Z,12.6,9.5,11.2,25,258,s.o.,s.o.
+17741,2014,Subaru,Impreza Wagon AWD,Familiale : petite,2.5,4,M6,Z,14.2,10.4,12.5,23,288,s.o.,s.o.
+17742,2014,Subaru,Legacy AWD,Intermédiaire,2.5,4,AV,X,9.7,7.3,8.6,33,198,s.o.,s.o.
+17743,2014,Subaru,Legacy AWD,Intermédiaire,2.5,4,M6,X,11.3,8.2,9.9,29,228,s.o.,s.o.
+17744,2014,Subaru,Legacy AWD,Intermédiaire,3.6,6,AS5,X,13.3,9.5,11.6,24,267,s.o.,s.o.
+17745,2014,Subaru,Outback AWD,Véhicule utilitaire sport : petit,2.5,4,AV,X,9.9,7.8,9.0,31,207,s.o.,s.o.
+17746,2014,Subaru,Outback AWD,Véhicule utilitaire sport : petit,2.5,4,M6,X,10.8,8.5,9.8,29,225,s.o.,s.o.
+17747,2014,Subaru,Outback AWD,Véhicule utilitaire sport : petit,3.6,6,AS5,X,13.4,9.7,11.7,24,269,s.o.,s.o.
+17748,2014,Subaru,Tribeca AWD,Véhicule utilitaire sport : petit,3.6,6,AS5,X,14.7,11.1,13.1,22,301,s.o.,s.o.
+17749,2014,Subaru,XV Crosstrek AWD,Véhicule utilitaire sport : petit,2.0,4,AV,X,9.5,7.2,8.5,33,196,s.o.,s.o.
+17750,2014,Subaru,XV Crosstrek AWD,Véhicule utilitaire sport : petit,2.0,4,M5,X,10.2,8.0,9.2,31,212,s.o.,s.o.
+17751,2014,Subaru,XV Crosstrek Hybrid AWD,Véhicule utilitaire sport : petit,2.0,4,AV,X,8.1,7.2,7.7,37,177,s.o.,s.o.
+17752,2014,Toyota,4Runner (Part-Time 4WD),Véhicule utilitaire sport : ordinaire,4.0,6,AS5,X,14.3,11.1,12.9,22,297,s.o.,s.o.
+17753,2014,Toyota,4Runner 4WD,Véhicule utilitaire sport : ordinaire,4.0,6,AS5,X,14.3,11.1,12.9,22,297,s.o.,s.o.
+17754,2014,Toyota,Avalon,Intermédiaire,3.5,6,AS6,X,11.3,7.6,9.6,29,221,s.o.,s.o.
+17755,2014,Toyota,Camry,Intermédiaire,2.5,4,AS6,X,9.5,6.6,8.2,34,189,s.o.,s.o.
+17756,2014,Toyota,Camry,Intermédiaire,3.5,6,AS6,X,11.1,7.8,9.6,29,221,s.o.,s.o.
+17757,2014,Toyota,Camry Hybrid LE,Intermédiaire,2.5,4,AV,X,5.5,5.9,5.7,50,131,s.o.,s.o.
+17758,2014,Toyota,Camry Hybrid XLE/SE,Intermédiaire,2.5,4,AV,X,5.8,6.2,6.0,47,138,s.o.,s.o.
+17759,2014,Toyota,Corolla,Intermédiaire,1.8,4,A4,X,8.6,6.5,7.7,37,177,s.o.,s.o.
+17760,2014,Toyota,Corolla,Intermédiaire,1.8,4,AV,X,8.0,5.9,7.1,40,163,s.o.,s.o.
+17761,2014,Toyota,Corolla LE Eco (1-Mode),Intermédiaire,1.8,4,AV,X,7.7,5.6,6.8,42,156,s.o.,s.o.
+17762,2014,Toyota,Corolla LE Eco (2-Mode),Intermédiaire,1.8,4,AV,X,7.8,5.9,6.9,41,159,s.o.,s.o.
+17763,2014,Toyota,Corolla,Intermédiaire,1.8,4,AV,X,8.1,6.3,7.3,39,168,s.o.,s.o.
+17764,2014,Toyota,Corolla,Intermédiaire,1.8,4,M6,X,8.3,6.3,7.4,38,170,s.o.,s.o.
+17765,2014,Toyota,Corolla Matrix,Familiale : petite,1.8,4,A4,X,9.4,7.5,8.5,33,196,s.o.,s.o.
+17766,2014,Toyota,Corolla Matrix,Familiale : petite,1.8,4,M5,X,8.9,7.3,8.2,34,189,s.o.,s.o.
+17767,2014,Toyota,FJ Cruiser 4WD,Véhicule utilitaire sport : petit,4.0,6,A5,X,14.3,11.2,12.9,22,297,s.o.,s.o.
+17768,2014,Toyota,FJ Cruiser 4WD,Véhicule utilitaire sport : petit,4.0,6,M6,X,15.4,12.1,13.9,20,320,s.o.,s.o.
+17769,2014,Toyota,Highlander,Véhicule utilitaire sport : petit,2.7,4,AS6,X,11.7,8.6,10.3,27,237,s.o.,s.o.
+17770,2014,Toyota,Highlander,Véhicule utilitaire sport : petit,3.5,6,AS6,X,12.6,9.4,11.2,25,258,s.o.,s.o.
+17771,2014,Toyota,Highlander AWD,Véhicule utilitaire sport : ordinaire,3.5,6,AS6,X,13.0,9.7,11.5,25,264,s.o.,s.o.
+17772,2014,Toyota,Highlander Hybrid AWD,Véhicule utilitaire sport : ordinaire,3.5,6,AV,X,8.0,8.6,8.3,34,191,s.o.,s.o.
+17773,2014,Toyota,Highlander Hybrid AWD LE,Véhicule utilitaire sport : ordinaire,3.5,6,AV,X,7.9,8.6,8.2,34,189,s.o.,s.o.
+17774,2014,Toyota,Prius,Intermédiaire,1.8,4,AV,X,4.7,4.9,4.8,59,110,s.o.,s.o.
+17775,2014,Toyota,Prius c,Compacte,1.5,4,AV,X,4.6,4.9,4.7,60,108,s.o.,s.o.
+17776,2014,Toyota,Prius v,Familiale : intermédiaire,1.8,4,AV,X,5.3,5.8,5.5,51,126,s.o.,s.o.
+17777,2014,Toyota,RAV4,Véhicule utilitaire sport : petit,2.5,4,AS6,X,10.0,7.6,8.9,32,205,s.o.,s.o.
+17778,2014,Toyota,RAV4 AWD,Véhicule utilitaire sport : petit,2.5,4,AS6,X,10.4,8.1,9.4,30,216,s.o.,s.o.
+17779,2014,Toyota,RAV4 Limited AWD,Véhicule utilitaire sport : petit,2.5,4,AS6,X,10.6,8.2,9.5,30,218,s.o.,s.o.
+17780,2014,Toyota,Sequoia 4WD,Véhicule utilitaire sport : ordinaire,5.7,8,AS6,X,19.0,13.9,16.7,17,384,s.o.,s.o.
+17781,2014,Toyota,Sienna,Fourgonnette,3.5,6,AS6,X,12.9,9.4,11.3,25,260,s.o.,s.o.
+17782,2014,Toyota,Sienna AWD,Fourgonnette,3.5,6,AS6,X,14.2,10.3,12.4,23,285,s.o.,s.o.
+17783,2014,Toyota,Tacoma,Camionnette : petite,2.7,4,A4,X,12.2,9.3,10.9,26,251,s.o.,s.o.
+17784,2014,Toyota,Tacoma,Camionnette : petite,2.7,4,M5,X,11.3,8.9,10.2,28,235,s.o.,s.o.
+17785,2014,Toyota,Tacoma,Camionnette : petite,4.0,6,M6,X,14.5,11.3,13.1,22,301,s.o.,s.o.
+17786,2014,Toyota,Tacoma 4WD,Camionnette : petite,2.7,4,A4,X,13.1,10.5,11.9,24,274,s.o.,s.o.
+17787,2014,Toyota,Tacoma 4WD,Camionnette : petite,2.7,4,M5,X,12.8,10.6,11.8,24,271,s.o.,s.o.
+17788,2014,Toyota,Tacoma 4WD,Camionnette : petite,4.0,6,A5,X,14.7,11.5,13.3,21,306,s.o.,s.o.
+17789,2014,Toyota,Tacoma 4WD,Camionnette : petite,4.0,6,M6,X,15.3,12.3,14.0,20,322,s.o.,s.o.
+17790,2014,Toyota,Tundra,Camionnette : ordinaire,4.0,6,AS5,X,14.8,11.8,13.5,21,310,s.o.,s.o.
+17791,2014,Toyota,Tundra,Camionnette : ordinaire,4.6,8,AS6,X,15.9,12.3,14.3,20,329,s.o.,s.o.
+17792,2014,Toyota,Tundra,Camionnette : ordinaire,5.7,8,AS6,X,17.6,12.9,15.5,18,356,s.o.,s.o.
+17793,2014,Toyota,Tundra 4WD,Camionnette : ordinaire,4.6,8,AS6,X,16.9,12.8,15.1,19,347,s.o.,s.o.
+17794,2014,Toyota,Tundra 4WD,Camionnette : ordinaire,5.7,8,AS6,X,18.1,13.9,16.2,17,373,s.o.,s.o.
+17795,2014,Toyota,Venza,Véhicule utilitaire sport : petit,2.7,4,AS6,X,11.4,8.2,10.0,28,230,s.o.,s.o.
+17796,2014,Toyota,Venza,Véhicule utilitaire sport : petit,3.5,6,AS6,X,12.6,9.1,11.0,26,253,s.o.,s.o.
+17797,2014,Toyota,Venza 4WD,Véhicule utilitaire sport : petit,2.7,4,AS6,X,11.6,8.5,10.2,28,235,s.o.,s.o.
+17798,2014,Toyota,Venza 4WD,Véhicule utilitaire sport : petit,3.5,6,AS6,X,12.9,9.4,11.3,25,260,s.o.,s.o.
+17799,2014,Toyota,Yaris,Compacte,1.5,4,A4,X,7.9,6.6,7.3,39,168,s.o.,s.o.
+17800,2014,Toyota,Yaris,Compacte,1.5,4,M5,X,7.8,6.3,7.1,40,163,s.o.,s.o.
+17801,2014,Volkswagen,Beetle,Compacte,1.8,4,A6,X,9.5,7.2,8.5,33,196,s.o.,s.o.
+17802,2014,Volkswagen,Beetle,Compacte,1.8,4,M5,X,9.9,7.2,8.7,32,200,s.o.,s.o.
+17803,2014,Volkswagen,Beetle,Compacte,2.0,4,A6,Z,10.3,7.7,9.1,31,209,s.o.,s.o.
+17804,2014,Volkswagen,Beetle,Compacte,2.0,4,M6,Z,10.8,7.6,9.4,30,216,s.o.,s.o.
+17805,2014,Volkswagen,Beetle TDI (modified),Compacte,2.0,4,A6,D,8.4,5.9,7.4,38,200,s.o.,s.o.
+17806,2014,Volkswagen,Beetle TDI (modified),Compacte,2.0,4,M6,D,8.8,6.1,7.7,37,208,s.o.,s.o.
+17807,2014,Volkswagen,Beetle,Compacte,2.5,5,A6,X,10.9,8.4,9.8,29,225,s.o.,s.o.
+17808,2014,Volkswagen,Beetle,Compacte,2.5,5,M5,X,11.2,7.7,9.6,29,221,s.o.,s.o.
+17809,2014,Volkswagen,Beetle Convertible,Sous-compacte,1.8,4,A6,X,9.8,7.3,8.7,32,200,s.o.,s.o.
+17810,2014,Volkswagen,Beetle Convertible,Sous-compacte,2.0,4,A6,Z,10.3,8.1,9.3,30,214,s.o.,s.o.
+17811,2014,Volkswagen,Beetle Convertible,Sous-compacte,2.0,4,M6,Z,10.8,7.6,9.4,30,216,s.o.,s.o.
+17812,2014,Volkswagen,Beetle Convertible,Sous-compacte,2.5,5,A6,X,11.2,8.7,10.1,28,232,s.o.,s.o.
+17813,2014,Volkswagen,CC,Compacte,2.0,4,A6,Z,11.1,7.9,9.7,29,223,s.o.,s.o.
+17814,2014,Volkswagen,CC,Compacte,2.0,4,M6,Z,11.6,7.7,9.8,29,225,s.o.,s.o.
+17815,2014,Volkswagen,CC 4MOTION,Compacte,3.6,6,A6,Z,14.3,9.8,12.3,23,283,s.o.,s.o.
+17816,2014,Volkswagen,Eos,Sous-compacte,2.0,4,A6,Z,10.9,8.0,9.6,29,221,s.o.,s.o.
+17817,2014,Volkswagen,Golf Wagon TDI (modified),Familiale : petite,2.0,4,A6,D,8.1,6.4,7.4,38,198,s.o.,s.o.
+17818,2014,Volkswagen,Golf Wagon TDI (modified),Familiale : petite,2.0,4,M6,D,8.3,6.0,7.3,39,196,s.o.,s.o.
+17819,2014,Volkswagen,Golf Wagon,Familiale : petite,2.5,5,A6,X,11.0,7.7,9.5,30,218,s.o.,s.o.
+17820,2014,Volkswagen,Golf Wagon,Familiale : petite,2.5,5,M5,X,11.2,7.3,9.4,30,216,s.o.,s.o.
+17821,2014,Volkswagen,Jetta,Compacte,1.8,4,A6,X,9.5,6.7,8.2,34,189,s.o.,s.o.
+17822,2014,Volkswagen,Jetta,Compacte,1.8,4,M5,X,9.4,6.7,8.2,34,189,s.o.,s.o.
+17823,2014,Volkswagen,Jetta,Compacte,2.0,4,A6,X,10.6,8.0,9.4,30,216,s.o.,s.o.
+17824,2014,Volkswagen,Jetta,Compacte,2.0,4,M5,X,10.4,7.2,9.0,31,207,s.o.,s.o.
+17825,2014,Volkswagen,Jetta TDI (modified),Compacte,2.0,4,A6,D,8.1,6.4,7.4,38,198,s.o.,s.o.
+17826,2014,Volkswagen,Jetta TDI (modified),Compacte,2.0,4,M6,D,8.3,6.0,7.3,39,196,s.o.,s.o.
+17827,2014,Volkswagen,Jetta GLI,Compacte,2.0,4,A6,Z,10.2,7.5,9.0,31,207,s.o.,s.o.
+17828,2014,Volkswagen,Jetta GLI,Compacte,2.0,4,M6,Z,10.6,7.4,9.2,31,212,s.o.,s.o.
+17829,2014,Volkswagen,Jetta Turbo Hybrid,Compacte,1.4,4,AM7,Z,5.6,5.2,5.4,52,124,s.o.,s.o.
+17830,2014,Volkswagen,Passat,Intermédiaire,1.8,4,A6,X,9.9,6.9,8.6,33,198,s.o.,s.o.
+17831,2014,Volkswagen,Passat,Intermédiaire,1.8,4,M5,X,10.0,6.9,8.6,33,198,s.o.,s.o.
+17832,2014,Volkswagen,Passat TDI (modified),Intermédiaire,2.0,4,A6,D,7.8,5.9,6.9,41,180,s.o.,s.o.
+17833,2014,Volkswagen,Passat,Intermédiaire,2.5,5,A6,X,11.0,8.0,9.7,29,223,s.o.,s.o.
+17834,2014,Volkswagen,Passat,Intermédiaire,2.5,5,M5,X,11.4,7.8,9.8,29,225,s.o.,s.o.
+17835,2014,Volkswagen,Passat,Intermédiaire,3.6,6,A6,Z,12.4,8.8,10.8,26,248,s.o.,s.o.
+17836,2014,Volkswagen,Routan,Fourgonnette,3.6,6,A6,X,14.2,9.5,12.1,23,278,s.o.,s.o.
+17837,2014,Volkswagen,Tiguan,Véhicule utilitaire sport : petit,2.0,4,A6,Z,11.7,9.5,10.7,26,246,s.o.,s.o.
+17838,2014,Volkswagen,Tiguan,Véhicule utilitaire sport : petit,2.0,4,M6,Z,13.6,9.2,11.6,24,267,s.o.,s.o.
+17839,2014,Volkswagen,Tiguan 4MOTION,Véhicule utilitaire sport : petit,2.0,4,A6,Z,11.7,9.4,10.7,26,246,s.o.,s.o.
+17840,2014,Volkswagen,Touareg TDI (modified),Véhicule utilitaire sport : ordinaire,3.0,6,AS8,D,11.8,8.1,10.2,28,277,s.o.,s.o.
+17841,2014,Volkswagen,Touareg,Véhicule utilitaire sport : ordinaire,3.6,6,AS8,Z,14.4,10.4,12.6,22,296,s.o.,s.o.
+17842,2014,Volvo,S60,Compacte,2.5,5,AS6,X,11.3,7.8,9.7,29,223,s.o.,s.o.
+17843,2014,Volvo,S60 AWD,Compacte,2.5,5,AS6,X,11.6,8.3,10.1,28,232,s.o.,s.o.
+17844,2014,Volvo,S60 AWD,Compacte,3.0,6,AS6,X,13.2,9.5,11.5,25,264,s.o.,s.o.
+17845,2014,Volvo,S80,Intermédiaire,3.2,6,AS6,X,11.9,8.1,10.2,28,235,s.o.,s.o.
+17846,2014,Volvo,S80 AWD,Intermédiaire,3.0,6,AS6,X,13.2,9.5,11.5,25,264,s.o.,s.o.
+17847,2014,Volvo,XC60,Véhicule utilitaire sport : petit,3.2,6,AS6,X,13.0,8.9,11.2,25,258,s.o.,s.o.
+17848,2014,Volvo,XC60 AWD,Véhicule utilitaire sport : petit,3.0,6,AS6,X,13.4,9.8,11.8,24,271,s.o.,s.o.
+17849,2014,Volvo,XC60 AWD,Véhicule utilitaire sport : petit,3.2,6,AS6,X,13.2,9.5,11.5,25,264,s.o.,s.o.
+17850,2014,Volvo,XC70 AWD,Véhicule utilitaire sport : petit,3.0,6,AS6,X,13.4,9.8,11.8,24,271,s.o.,s.o.
+17851,2014,Volvo,XC70 AWD,Véhicule utilitaire sport : petit,3.2,6,AS6,X,12.9,9.3,11.3,25,260,s.o.,s.o.
+17852,2014,Volvo,XC90 AWD,Véhicule utilitaire sport : ordinaire,3.2,6,AS6,X,14.9,10.2,12.8,22,294,s.o.,s.o.
